@@ -1,0 +1,7 @@
+1. 修改MobSF，让他能够把manifest提取出来（已完成）
+2. 运行MobSF进行检测（已完成）
+3. 运行update_db.py来将manifest中的关键信息，并检测c1,b1,b3的信息存储到mongodb数据库中。
+4. 使用mobsf_analysis.py来对mobsf的分析结果进行提取，其中包含了包含了c2，c3，c4的违规情况
+5. 使用manifest checker来检查之前提取出来的这些manifest文件，可以获得一个结果文本文件
+6. 使用mani_analysis.py会分析manifest analysis的结果文本文件，得到a1,a2,a3,b2的检测结果，然后会在mongodb中更新
+7. 使用get_db_statistics.py来统计最终的结果

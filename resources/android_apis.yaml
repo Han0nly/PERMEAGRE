@@ -1,0 +1,62 @@
+- id: api_send_broadcast
+  message: Sending Broadcast
+  type: RegexOr
+  pattern:
+    - sendBroadcast\(
+    - sendOrderedBroadcast\(
+    - sendStickyBroadcast\(
+    - sendBroadcastAsUser\(
+    - sendOrderedBroadcastAsUser\(
+    - sendBroadcastWithMultiplePermissions\(
+  input_case: exact
+  severity: info
+- id: api_ipc
+  message: Inter Process Communication
+  type: RegexOr
+  pattern:
+    - IRemoteService
+    - IRemoteService\.Stub
+    - IBinder
+    - Intent
+  input_case: exact
+  severity: info
+- id: api_check_permission
+  message: Checking permissions
+  type: RegexOr
+  pattern:
+    - checkCallingOrSelfPermission\(
+    - checkCallingOrSelfUriPermission\(
+    - checkCallingOrSelfUriPermissions\(
+    - checkCallingPermission\(
+    - checkCallingUriPermission\(
+    - checkCallingUriPermissions\(
+    - checkPermission\(
+    - checkSelfPermission\(
+    - checkUriPermission\(
+    - checkUriPermissions\(
+    - enforceCallingOrSelfPermission\(
+    - enforceCallingOrSelfUriPermission\(
+    - enforceCallingPermission\(
+    - enforceUriPermission\(
+    - enforcePermission\(
+    - enforceCallingUriPermission\(
+  input_case: exact
+  severity: info
+- id: api_check_target
+  message: Checking target
+  type: RegexOr
+  pattern:
+    - PackageManager\.GET_SIGNATURES
+    - PackageManager\.GET_SIGNING_CERTIFICATES
+    - checkSignatures\(
+    - getPackageInfo\(
+    - getInstalledPackages\(
+    - getActivityInfo\(
+    - getApplicationInfo\(
+    - getModuleInfo\(
+    - getReceiverInfo\(
+    - getProviderInfo\(
+    - getServiceInfo\(
+    - hasSigningCertificate\(
+  input_case: exact
+  severity: info

@@ -1,0 +1,27 @@
+{
+  "READING": ["Books & Reference", "Comics"],
+  "BUSINESS": ["Business"],
+  "COMMUNICATION": ["Communication"],
+  "EDUCATION": ["Educational","Education"],
+  "ENTERTAINMENT": ["Entertainment"],
+  "FINANCE": ["Finance"],
+  "GAME":[
+    "Role Playing", "Action", "Casual", "Puzzle", "Card", "Strategy",
+    "Sports", "Arcade", "Simulation", "Adventure", "Racing",
+    "Board", "Trivia", "Music", "Casino"
+  ],
+  "HEALTH": ["Health & Fitness", "Medical", "Parenting", "Food & Drink"],
+  "INPUT": ["Word"],
+  "LOCATION": ["Maps & Navigation", "Weather", "Travel & Local"],
+  "MUSIC": ["Music & Audio"],
+  "NEWS": ["News & Magazines", "Events"],
+  "PERSONALIZATION": ["Personalization", "Productivity", "Lifestyle"],
+  "PHOTO":[ "Photography", "Beauty"],
+  "SHOPPING": ["Shopping"],
+  "SOCIAL": ["Dating", "Social"],
+  "VIDEO": ["Video Players & Editors"],
+  "OTHERS": [
+    "Libraries & Demo", "Auto & Vehicles", "House & Home", "Art & Design"
+  ],
+  "TOOLS": ["Tools" ]
+}

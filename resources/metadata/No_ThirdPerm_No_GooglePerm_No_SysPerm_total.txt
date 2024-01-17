@@ -1,0 +1,322 @@
+360_cn.youlai.app.xml cn.youlai.permission.all
+ 360_com.dracarys.forhealthy.xml com.android.alarm.permission.SET_ALARM
+360_com.fitbit.FitbitMobile.xml android.permission.ACCESS_COURSE_LOCATION
+ 360_com.dajiazhongyi.dajia.xml com.dajiazhongyi.dajia.permission.all
+360_com.gdcn.sport.xml im.yixin.sdk.permission.YIXIN_SDK_MESSAGE
+ 360_com.tinylogics.project.xml android.permission.RECEIVER_BOOT_COMPLETED
+360_com.psyone.brainmusic.xml com.psyone.brainmusic.permission.PROCESS_PUSH_MSG com.psyone.brainmusic.permission.PUSH_PROVIDER
+ 360_com.jh.APP121634.news.xml im.yixin.sdk.permission.YIXIN_SDK_MESSAGE
+360_com.jh.APP143819.news.xml im.yixin.sdk.permission.YIXIN_SDK_MESSAGE
+360_com.greenline.guahao.xml com.greenline.guahao.permission.PROCESS_PUSH_MSG
+ 360_com.huawei.bone.xml com.huawei.bone.notifypermission
+360_com.huawei.health.xml huawei.android.permission.HW_SIGNATURE_OR_SYSTEM com.huawei.dataprivacycenter.permission.LAUNCH_APP_PRIVACY_STATEMENT com.huawei.android.sns.permission.BACKUP
+360_com.bianla.app.xml com.bianla.tangba.broadcast.permission
+ 360_com.kufeng.hj.enjoy.xml com.tencent.qcloud.tim.tuikit.permission.PROCESS_PUSH_MSG
+360_com.xywy.askforexpert.xml com.xywy.permission.Recharge
+ abnehm.app.low.carb.xml abnehm.app.low.carb.permission.PushHandlerActivity
+ fitstudios.wellness.centre.xml fitstudios.wellness.centre.permission.PushHandlerActivity
+ com.daxko.mobile.ymcaduluth.xml com.daxko.mobile.ymcaduluth.permission.PushHandlerActivity
+com.daxko.mobile.ymcaharrison.xml com.daxko.mobile.ymcaharrison.permission.PushHandlerActivity
+com.daxko.mobile.ymcakennebec.xml com.daxko.mobile.ymcakennebec.permission.PushHandlerActivity
+com.daxko.mobile.ymcamarionfamily.xml com.daxko.mobile.ymcamarionfamily.permission.PushHandlerActivity
+com.daxko.mobile.ymcamattoon.xml com.daxko.mobile.ymcamattoon.permission.PushHandlerActivity
+com.daxko.mobile.ymcanorfolk.xml com.daxko.mobile.ymcanorfolk.permission.PushHandlerActivity
+com.daxko.mobile.ymcaorangecounty.xml com.daxko.mobile.ymcaorangecounty.permission.PushHandlerActivity
+com.daxko.mobile.ymcastcloud.xml com.daxko.mobile.ymcastcloud.permission.PushHandlerActivity
+ balance.on.buffalo.xml balance.on.buffalo.permission.PushHandlerActivity
+baseball.dvs.xml baseball.dvs.permission.PushHandlerActivity
+Baidu_com.xunmeng.pinduoduo.xml com.xunmeng.hutaoqiao.XLOG_UPLOAD_SEND
+ fuzion.force.xml fuzion.force.permission.PushHandlerActivity
+genesis.personal.fitness.xml genesis.personal.fitness.permission.PushHandlerActivity
+ com.trimhealthymama.foodanalyzer.xml com.trimhealthymama.foodanalyzer.permission.PushHandlerActivity
+com.mss.ptminder.xml com.mss.ptminder.permission.PushHandlerActivity
+com.mycareplan.columnhealth.xml com.mycareplan.columnhealth.permission.PushHandlerActivity
+com.mycareplan.door2door.xml com.mycareplan.door2door.permission.PushHandlerActivity
+com.mycareplan.jivanacare.xml com.mycareplan.jivanacare.permission.PushHandlerActivity
+ com.lge.lifetracker.xml com.lge.lifetracker.permission.RECEIVE_RANKING_ACTION_MESSAGE com.lge.lifetracker.permission.RECEIVE_EVENT_LOGGER com.lge.lifetracker.permission.RECEIVE_TIP_ISSUE com.lge.lifetracker.permission.RECEIVE_TIP_DELETE com.lge.cic.challenge.permission.START_CHALLENGE
+ com.q7d3bea1b88e.app.xml com.q7d3bea1b88e.app.permission.PushHandlerActivity
+com.wildflower.UHCNV.xml com.wildflower.UHCNV.permission.PushHandlerActivity
+com.wildflowerhealth.UGROW.Optum.ml.xml com.wildflowerhealth.UGROW.Optum.ml.permission.PushHandlerActivity
+com.virginpulse.virginpulse.xml com.virginpulse.permission.activity.INTERNAL_ACTIVITY com.virginpulse.permission.activity.INTERNAL_ACTIVITY
+outlaw.training.and.fitness.xml outlaw.training.and.fitness.permission.PushHandlerActivity
+peaceful.poses.kids.yoga.xml peaceful.poses.kids.yoga.permission.PushHandlerActivity
+peaks.lifestyle.xml peaks.lifestyle.permission.PushHandlerActivity
+com.qure4u.careplan.xml com.qure4u.careplan.permission.PushHandlerActivity
+rock.sports.xml rock.sports.permission.PushHandlerActivity
+com.daxko.mobile.ymcatelford.xml com.daxko.mobile.ymcatelford.permission.PushHandlerActivity
+pilates.unleashed.studio.xml pilates.unleashed.studio.permission.PushHandlerActivity
+com.strongrfastr.cordova.xml com.strongrfastr.cordova.permission.PushHandlerActivity
+high.octane.training.and.therapy.xml high.octane.training.and.therapy.permission.PushHandlerActivity
+me.rtrt.app.rrsa.xml me.rtrt.app.rrsa.permission.PushHandlerActivity
+elevate.fit.xml elevate.fit.permission.PushHandlerActivity
+net.mypthub.app01.xml net.mypthub.app01.permission.PushHandlerActivity
+com.komparato.workout.xml com.sonyericsson.extras.liveware.aef.HOSTAPP_PERMISSION
+com.ptminder.com.RADcentre.xml com.ptminder.com.RADcentre.permission.PushHandlerActivity
+com.ptminder.wolfewellness.xml com.ptminder.wolfewellness.permission.PushHandlerActivity
+ com.topfan.TopFan.Mackfit.xml com.topfan.TopFan.Mackfit.provider.permission.WRITE
+com.mysportsd.tracker.xml com.mysportsd.tracker.permission.PushHandlerActivity
+ com.naturallyslim.nsclassic.xml true
+hammer.surf.school.xml hammer.surf.school.permission.PushHandlerActivity
+ me.rtrt.app.ssa.xml me.rtrt.app.ssa.permission.PushHandlerActivity
+me.rtrt.app.sspla.xml me.rtrt.app.sspla.permission.PushHandlerActivity
+me.rtrt.app.ssstwm.xml me.rtrt.app.ssstwm.permission.PushHandlerActivity
+me.rtrt.app.tdla.xml me.rtrt.app.tdla.permission.PushHandlerActivity
+me.rtrt.app.ttcsdm.xml me.rtrt.app.ttcsdm.permission.PushHandlerActivity
+me.rtrt.app.usata.xml me.rtrt.app.usata.permission.PushHandlerActivity
+me.rtrt.app2.xml me.rtrt.app2.permission.PushHandlerActivity
+ com.wildflowerhealth.UGROW.SutterHealth.xml com.wildflowerhealth.UGROW.SutterHealth.permission.PushHandlerActivity
+com.wildflowerhealth.UGROW.UHC.ml.xml com.wildflowerhealth.UGROW.UHC.ml.permission.PushHandlerActivity
+ trained.by.the.beast.xml trained.by.the.beast.permission.PushHandlerActivity
+tranquil.haven.llc.xml tranquil.haven.llc.permission.PushHandlerActivity
+com.mycareplan.kudocare.xml com.mycareplan.kudocare.permission.PushHandlerActivity
+com.mycareplan.mhmmedicalgroup.xml com.mycareplan.mhmmedicalgroup.permission.PushHandlerActivity
+com.mycareplan.michiganorthopedicsurgeons.xml com.mycareplan.michiganorthopedicsurgeons.permission.PushHandlerActivity
+com.mycareplan.myahc.careplan.xml com.mycareplan.myahc.careplan.permission.PushHandlerActivity
+com.mycareplan.mytp4w.careplan.xml com.mycareplan.mytp4w.careplan.permission.PushHandlerActivity
+com.mycareplan.mywomancare.xml com.mycareplan.mywomancare.permission.PushHandlerActivity
+com.mycareplan.northfloridasurgeons.app.xml com.mycareplan.northfloridasurgeons.app.permission.PushHandlerActivity
+com.mycareplan.orthonc.xml com.mycareplan.orthonc.permission.PushHandlerActivity
+com.mycareplan.premierfamilyphysicians.xml com.mycareplan.premierfamilyphysicians.permission.PushHandlerActivity
+com.mycareplan.replyhealth.careplan.xml com.mycareplan.replyhealth.careplan.permission.PushHandlerActivity
+com.mycareplan.stedmanwadehealth.xml com.mycareplan.stedmanwadehealth.permission.PushHandlerActivity
+com.mycareplan.thrivepeds.xml com.mycareplan.thrivepeds.permission.PushHandlerActivity
+com.mycareplan.unitedmd.xml com.mycareplan.unitedmd.permission.PushHandlerActivity
+ kimberley.kennon.xml kimberley.kennon.permission.PushHandlerActivity
+kr.co.hanmihealthcare.ansim.xml kr.co.hanmihealthcare.ansim.permission.PushHandlerActivity
+kr.co.hanmihealthcare.qs.xml kr.co.hanmihealthcare.qs.permission.PushHandlerActivity
+kr.co.hanmihealthcare.voiding.xml kr.co.hanmihealthcare.voiding.permission.PushHandlerActivity
+ me.rtrt.app.bba.xml me.rtrt.app.bba.permission.PushHandlerActivity
+me.rtrt.app.bbc.xml me.rtrt.app.bbc.permission.PushHandlerActivity
+me.rtrt.app.bbfa.xml me.rtrt.app.bbfa.permission.PushHandlerActivity
+me.rtrt.app.ccpva.xml me.rtrt.app.ccpva.permission.PushHandlerActivity
+me.rtrt.app.ccta.xml me.rtrt.app.ccta.permission.PushHandlerActivity
+me.rtrt.app.clsa.xml me.rtrt.app.clsa.permission.PushHandlerActivity
+me.rtrt.app.dbm.xml me.rtrt.app.dbm.permission.PushHandlerActivity
+me.rtrt.app.elitea.xml me.rtrt.app.elitea.permission.PushHandlerActivity
+me.rtrt.app.irma.xml me.rtrt.app.irma.permission.PushHandlerActivity
+me.rtrt.app.rcsadm.xml me.rtrt.app.rcsadm.permission.PushHandlerActivity
+me.rtrt.app.rcsrak.xml me.rtrt.app.rcsrak.permission.PushHandlerActivity
+me.rtrt.app.rnra.xml me.rtrt.app.rnra.permission.PushHandlerActivity
+ ru.sike.YourFitDay.xml ru.sike.YourFitDay.permission.PushHandlerActivity
+com.wildflowerhealth.UDDP.IEHP.ml.xml com.wildflowerhealth.UDDP.IEHP.ml.permission.PushHandlerActivity
+ br.gov.datasus.guardioes.xml br.gov.datasus.guardioes.permission.PushHandlerActivity
+ co.homage.careowner.xml android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ com.connectedwellness.HealthCoachPlus.xml com.connectedwellness.HealthCoachPlus.permission.PushHandlerActivity
+ com.ptminder.comeboxwithme.xml com.ptminder.comeboxwithme.permission.PushHandlerActivity
+com.ptminder.difitlifestyle.xml com.ptminder.difitlifestyle.permission.PushHandlerActivity
+com.ptminder.getgoingpt.xml com.ptminder.getgoingpt.permission.PushHandlerActivity
+com.ptminder.globeathletic.xml com.ptminder.globeathletic.permission.PushHandlerActivity
+equilibrium.studios.xml equilibrium.studios.permission.PushHandlerActivity
+ ninja.coalition.hq.xml ninja.coalition.hq.permission.PushHandlerActivity
+ omni.fight.club.xml omni.fight.club.permission.PushHandlerActivity
+ Baidu_com.huawei.health.xml com.huawei.health.notifypermission com.huawei.android.sns.permission.BACKUP
+ com.huawei.bone.xml com.huawei.bone.notifypermission
+ com.bluemesahealth.transform.xml com.bluemesahealth.transform.permission.PushHandlerActivity
+com.floapps.diet.plan.xml effective30daydietplan_290.permission.PushHandlerActivity
+ com.geburtinhypnose.friedlichegeburt.xml com.geburtinhypnose.friedlichegeburt.permission.PushHandlerActivity
+ soul.strong.yoga.xml soul.strong.yoga.permission.PushHandlerActivity
+ pl.com.continuum.cbtbasicemotionsdiary.xml readPermission
+ stretch.inc.xml stretch.inc.permission.PushHandlerActivity
+ svelte.fitness.stiduo.xml svelte.fitness.stiduo.permission.PushHandlerActivity
+ com.philips.cdp.ohc.tuscany.xml FriendsOnly
+com.philips.sonicare4kids.xml FriendsOnly
+com.philips.src.hss.xml FriendsOnly
+com.philips.vitaskin.male.xml FriendsOnly
+ gigi.tonye.arts.and.fitness.xml gigi.tonye.arts.and.fitness.permission.PushHandlerActivity
+ com.jumpycatapp.xml com.jumpycatapp.provider.READ_WRITE
+ com.kansoft.keepup.xml com.kansoft.keepup.permission.PushHandlerActivity
+ com.huawei.health.xml huawei.android.permission.HW_SIGNATURE_OR_SYSTEM com.huawei.dataprivacycenter.permission.LAUNCH_APP_PRIVACY_STATEMENT com.huawei.android.sns.permission.BACKUP
+ com.iscelenielyubovyu.app.androidoverview.xml com.iscelenielyubovyu.app.androidoverview_1.permission.PushHandlerActivity
+ com.ptminder.com.msfit.xml com.ptminder.com.msfit.permission.PushHandlerActivity
+com.ptminder.com.precisionathletic.xml com.ptminder.com.precisionathletic.permission.PushHandlerActivity
+ com.wellnessliving.achieve.xml com.wellnessliving.achieve.permission.PushHandlerActivity
+com.wellnessliving.elevate.xml com.wellnessliving.elevate.permission.PushHandlerActivity
+ my.fit.studio.xml my.fit.studio.permission.PushHandlerActivity
+ lovely.bodies.xml lovely.bodies.permission.PushHandlerActivity
+lumina.mind.body.studios.xml lumina.mind.body.studios.permission.PushHandlerActivity
+luminesque.dance.xml luminesque.dance.permission.PushHandlerActivity
+ levo.strength.xml levo.strength.permission.PushHandlerActivity
+com.ninezest.coach.xml com.ninezest.coach.permission.PushHandlerActivity
+com.ptminder.inspirefitness.xml com.ptminder.inspirefitness.permission.PushHandlerActivity
+com.ptminder.melbourneindustry.xml com.ptminder.melbourneindustry.permission.PushHandlerActivity
+com.ptminder.vffinhome.xml com.ptminder.vffinhome.permission.PushHandlerActivity
+com.ptminder.voltfitnessnightclub.xml com.ptminder.voltfitnessnightclub.permission.PushHandlerActivity
+com.ptminder.warriorwomenfitness.xml com.ptminder.warriorwomenfitness.permission.PushHandlerActivity
+ doylestown.sports.medicine.center.xml doylestown.sports.medicine.center.permission.PushHandlerActivity
+ refresh.studios.xml refresh.studios.permission.PushHandlerActivity
+ simply.wellness.xml simply.wellness.permission.PushHandlerActivity
+ com.imoblife.brainwave.xml com.imoblife.brainwave.mobiamo.PAYMENT_BROADCAST_PERMISSION
+360_air.zhiji.app.xml TODO TODO
+360_cn.mucang.kaka.android.xml cn.mucang.android.weizhang.SDK_RECEIVER
+360_cn.mucang.xiaomi.android.wz.xml cn.mucang.android.weizhang.SDK_RECEIVER
+360_com.adoumeng.doumeng.xml com.tencent.qcloud.tim.tuikit.permission.PROCESS_PUSH_MSG
+360_com.amigo.dj.xml android.provider.Telephony.SMS_RECEIVED
+360_com.axeonly.launcher.xml com.axeonly.launcher.widget.taskmanager
+360_com.bhu.wifioverlook.xml de.blinkt.openvpn.REMOTE_API de.blinkt.openvpn.REMOTE_API de.blinkt.openvpn.REMOTE_API
+360_com.bitstrips.imoji.xml com.snapchat.android.permission.UPDATE_STICKER_INDEX com.snapchat.android.debug.permission.UPDATE_STICKER_INDEX com.snapchat.android.master.permission.UPDATE_STICKER_INDEX com.google.android.apps.inputmethod.latin.permission.UPDATE_STICKER_INDEX com.google.android.apps.inputmethod.latin.dev.permission.UPDATE_STICKER_INDEX
+360_com.blizzard.bma.xml com.android.permission.SEND_NETEASE_POMELO_PUSH_SERVICE_BLIZZARD com.android.permission.SEND_NETEASE_POMELO_PUSH_SERVICE_BLIZZARD com.android.permission.SEND_NETEASE_POMELO_PUSH_SERVICE_BLIZZARD
+360_com.chinamobile.mcloud.xml com.cmri.universalapp.permission.ACCESS com.cmri.universalapp.permission.ACCESS com.cmri.universalapp.permission.ACCESS com.cmri.universalapp.permission.ACCESS com.cmri.universalapp.permission.ACCESS com.cmri.universalapp.permission.ACCESS
+360_com.diyidan.dongman.xml com.alipay.mobile.command.trigger.permission
+360_com.facebook.groups.xml com.nokia.pushnotifications.permission.SEND
+360_com.founder.apabi.reader.xml BROADCAST_STICKY
+360_com.futuredial.asusdatatransfer.xml com.futuredial.datatransfer.broadcast
+360_com.google.android.apps.genie.geniewidget.xml android.permission.BIND_DREAM_SERVICE
+360_com.hanfuhui.xml com.hanfuhui.permission.PROCESS_PUSH_MSG
+360_com.hlds.cp.xml com.hlds.cp.receiver.permission.PROCESS_PUSH_MSG
+360_com.hmkx.zgjkj.xml 800
+360_com.huawei.himovie.xml huawei.android.permission.ABILITY_FOR_HIVOICE huawei.android.permission.ABILITY_FOR_HIVOICE huawei.android.permission.ABILITY_FOR_HIVOICE huawei.android.permission.ABILITY_FOR_HIVOICE
+360_com.inmeapp.dream.xml 1000 1000 1000 1000
+360_com.jh.APP361212.news.xml im.yixin.sdk.permission.YIXIN_SDK_MESSAGE
+360_com.jh.APPbb9356a4613049f0bab7f6b4e9fbb973.news.xml im.yixin.sdk.permission.YIXIN_SDK_MESSAGE
+360_com.jx.cmcc.ict.ibelieve.xml com.cmri.universalapp.permission.ACCESS com.cmri.universalapp.permission.ACCESS com.cmri.universalapp.permission.ACCESS com.cmri.universalapp.permission.ACCESS com.cmri.universalapp.permission.ACCESS com.cmri.universalapp.permission.ACCESS com.cmri.universalapp.permission.ACCESS com.cmri.universalapp.permission.ACCESS com.cmri.universalapp.permission.ACCESS com.cmri.universalapp.permission.ACCESS
+360_com.kingpoint.gmcchh.xml cmccg5.permission.activity
+360_com.kuaigeng.video.xml tv.yixia.bobo.fundation.communication.AIDL_SERVICE
+360_com.lchr.diaoyu.xml com.bearever.push.RECEIVER
+360_com.letv.android.client.xml com.stv.stvpush.permission.SEND_PUSH com.stv.stvpush.permission.SEND_PUSH
+360_com.lofter.android.xml im.yixin.sdk.permission.MM_MESSAGE im.yixin.sdk.permission.YIXIN_SDK_MESSAGE
+360_com.netease.camera.xml im.yixin.sdk.permission.YIXIN_SDK_MESSAGE
+360_com.netease.pris.xml im.yixin.sdk.permission.MM_MESSAGE
+360_com.netease.snailread.xml im.yixin.sdk.permission.YIXIN_SDK_MESSAGE
+360_com.oasisfeng.greenify.xml com.oasisfeng.nevo.permission.BIND_DECORATOR_SERVICE
+360_com.sec.android.app.sbrowser.beta.xml com.sec.factory.permission.KEYSTRING com.sec.spp.permission.SEND
+360_com.sec.android.easyMover.xml com.sec.android.app.SecSetupWizard.permission.SHOW_SETUP_WIZARD
+360_com.sina.news.lite.xml com.sina.news.permission.SINA_PUSH com.sina.news.permission.SINA_PUSH
+360_com.sjku.qq.xml com.ssgdud.android.c2dm.permission.SEND
+360_com.sohu.newsclient.xml com.sohu.newsclient.permission.PROCESS_PUSH_MSG
+360_com.sumavision.sanping.hubei.xml android.net.wifi.STATE_CHANGE
+360_com.sumavision.sanping.shandong.xml android.net.wifi.STATE_CHANGE
+360_com.taobao.mobile.dipei.xml com.eg.android.AlipayGphone.MerchantPermission
+360_com.telecom.video.xml im.yixin.sdk.permission.YIXIN_SDK_MESSAGE
+360_com.tencent.FileManager.xml com.tencent.mtt.broadcast
+360_com.tudou.android.xml com.youku.permission.Boot_Finished
+360_com.vehicle.inspection.xml Channel
+360_com.viptail.xiaogouzaijia.xml com.viptail.xiaogouzaijia.permission.PROCESS_PUSH_MSG
+360_com.wondertek.miguaikan.xml com.cmri.universalapp.permission.ACCESS com.cmri.universalapp.permission.ACCESS com.cmri.universalapp.permission.ACCESS com.cmri.universalapp.permission.ACCESS com.cmri.universalapp.permission.ACCESS com.cmri.universalapp.permission.ACCESS
+360_com.xiangliyun.youxiu.xgyybfq.xml \ 2147483647
+360_com.xm.bottle.xml com.tencent.qcloud.tim.tuikit.permission.PROCESS_PUSH_MSG
+360_com.yinshenxia.xml com.yinshenxia.permission.START_SUCUN_SERVICE
+360_com.youku.phone.xml com.youku.phone.permission.PROCESS_PUSH_MSG com.youku.phone.permission.PROCESS_PUSH_MSG com.youku.permission.Boot_Finished
+360_com.youth.weibang.xml android.provider.Telephony.SMS_RECEIVED
+360_com.youxibaoku.socialdj.xml android.provider.Telephony.SMS_RECEIVED
+360_com.ysdqbfq.taaz.xml \ 2147483647
+360_com.yunchuang.huahuoread.xml 100
+360_com.zjapp.xml com.zjapp.share com.zjapp.share com.zjapp.share
+360_qvod.com.sjkpsq.qvod.xml \ 2147483647
+360_tv.yixia.bobo.xml tv.yixia.bobo.fundation.communication.AIDL_SERVICE
+Baidu_cmb.pb.xml cmb.pb.permission.APP_AIDL_SERVER
+Baidu_cn.cj.pe.xml cn.cj.pe cn.cj.pe
+Baidu_cn.emoney.emstock.xml cn.emoney.emstock.permission.APP_AIDL_SERVER
+Baidu_cn.missevan.xml TODO
+Baidu_cn.mucang.xiaomi.android.wz.xml cn.mucang.android.weizhang.SDK_RECEIVER
+Baidu_com.alibaba.ailabs.tg.xml com.alibaba.ailabs.tg.permission.NOTIFY_WIDGET
+Baidu_com.asiainfo.android.xml com.asiainfo.android.permission.REMOTE_CONTROL
+Baidu_com.autonavi.cmccmap.xml com.heqinuc.test.push.permission.PROCESS_PUSH_MSG
+Baidu_com.baidu.homework.xml com.baidu.homework.permission.PROCESS_PUSH_MSG
+Baidu_com.baidu.searchbox.lite.xml com.plugin.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.china3s.android.xml com.china3s.android.permission.PROCESS_PUSH_MSG
+Baidu_com.csair.mbp.xml com.csair.mbp.notification.MyJPushMessageReceiver
+Baidu_com.dotools.clock.xml \ 2147483647
+Baidu_com.doupin.show.xml com.ddmh.pushsdk.permission.PROCESS_PUSH_MSG
+Baidu_com.eg.android.AlipayGphone.xml com.eg.android.AlipayGphone.MerchantPermission
+Baidu_com.hecom.mgm.xml 1000
+Baidu_com.Hotel.EBooking.xml ctrip.android.view.permission.third
+Baidu_com.ichinait.gbdriver.xml {PROVIDER_APPLICATION_ID}.permission.PROCESS_PUSH_MSG
+Baidu_com.intsig.camscanner.xml com.intsig.camscanner.push.receiver
+Baidu_com.iyuba.CSvoa.xml com.huawei.hmsagentsamplexsj.permission.PROCESS_PUSH_MSG
+Baidu_com.iyuba.TEDVideo.xml com.huawei.hmsagentsamplexsj.permission.PROCESS_PUSH_MSG
+Baidu_com.kingpoint.gmcchh.xml cmccg5.permission.activity
+Baidu_com.letv.android.client.xml com.stv.stvpush.permission.SEND_PUSH com.stv.stvpush.permission.SEND_PUSH
+Baidu_com.meitu.meipaimv.xml com.meitu.remote.hotfix.permission.DEBUGGING
+Baidu_com.meitu.meiyancamera.xml com.meitu.remote.hotfix.permission.DEBUGGING
+Baidu_com.mt.mtxx.mtxx.xml com.meitu.remote.hotfix.permission.DEBUGGING
+Baidu_com.shoujiduoduo.videodesk.xml com.shoujiduoduo.wallpaper.permission.PLUGINMESSAGEHANDING
+Baidu_com.shoujiduoduo.wallpaper.xml com.shoujiduoduo.wallpaper.permission.PLUGINMESSAGEHANDING
+Baidu_com.shundaojia.travel.passenger.xml com.shundaojia.travel.driver.permission.PROCESS_PUSH_MSG
+Baidu_com.sina.mail.free.xml com.sina.mail.free.permission.SINA_PUSH
+Baidu_com.suirui.zhumu.xml com.suirui.zhumu.permission.CHANGE_CONFIG com.suirui.zhumu.permission.READ_CONFIG
+Baidu_com.suning.mobile.epa.xml com.suning.mobile.epa.permission.APP_AIDL_SERVER
+Baidu_com.taobao.trip.xml com.yunos.baseservice.cmns_client.RECEIVE_PERMISSIONS
+Baidu_com.tencent.androidqqmail.xml com.tencent.androidqqmail.permission.PROCESS_PUSH_MSG
+Baidu_com.tencent.cmocmna.xml com.tencent.mocmna.accservice.permission
+Baidu_com.themewallpaper.douping.xml com.ddmh.pushsdk.permission.PROCESS_PUSH_MSG
+Baidu_com.toga.chat.xml com.toga.chat.permission.APP_AIDL_SERVER
+Baidu_com.tudou.android.xml com.youku.permission.Boot_Finished
+Baidu_com.umetrip.android.msky.app.xml com.umetrip.android.msky.huawei.permission.PROCESS_PUSH_MSG
+Baidu_com.vivo.space.xml com.vivo.abe.permission.transmit.br
+Baidu_com.woyue.batchat.xml com.woyue.batchat.permission.share.FILE
+Baidu_com.xiaomi.loan.xml com.xiaomi.loan.permission.APP_AIDL_SERVER
+Baidu_com.xlky.xlxt.xml com.foxhis.kft.permission.PROCESS_PUSH_MSG
+Baidu_com.xunmeng.pinduoduo.xml com.xunmeng.hutaoqiao.MEMORY_MONITOR_SEND com.xunmeng.hutaoqiao.XLOG_UPLOAD_SEND
+Baidu_com.yaoo.qlauncher.xml com.yaoo.qlauncher.permission.INSTALL_SHORTCUT com.yaoo.qlauncher.permission.UNINSTALL_SHORTCUT
+Baidu_hk.com.hsbc.hsbchkbusinessexpress.xml hk.com.hsbc.hsbchkbusinessexpress.permission.network
+Baidu_ls.xnj.meetingmachine.xml true true
+com.kbstar.land.xml com.ahnlab.enginesdk.REPORTABLE
+ com.mattel.hwgarage.xml com.mcpp.mattel.blehelperlibrary.permission.DFU_SERVICE
+com.miui.calculator.xml com.miui.voiceassist.MVS_BROADCAST
+com.samsung.android.oneconnect.xml com.sec.spp.permission.SEND
+com.wabox.xml TODO
+Coolapk_cmb.pb.xml cmb.pb.permission.APP_AIDL_SERVER
+Coolapk_cn.missevan.xml TODO
+Coolapk_cn.mucang.kaka.android.xml cn.mucang.android.weizhang.SDK_RECEIVER
+Coolapk_cn.mucang.xiaomi.android.wz.xml cn.mucang.android.weizhang.SDK_RECEIVER
+Coolapk_cn.mucang.xiaomi.android.xml cn.mucang.android.weizhang.SDK_RECEIVER
+Coolapk_cn.nicolite.huthelper.xml cn.nicolite.huthelper.permission.HUAWEIPUSH_RECEIVE
+Coolapk_com.alibaba.ailabs.tg.xml com.alibaba.ailabs.tg.permission.NOTIFY_WIDGET
+Coolapk_com.angding.smartnote.xml .permission.APP_WIDGET
+Coolapk_com.ayibang.ayb.xml com.im.oa.myapplication.permission.PROCESS_PUSH_MSG
+Coolapk_com.baidu.browser.apps.xml com.plugin.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.baidu.homework.xml com.baidu.homework.permission.PROCESS_PUSH_MSG
+Coolapk_com.baidu.searchbox.lite.xml com.plugin.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.chenghui.study.c.xml studyc.jackpal.androidterm.permission.RUN_SCRIPT
+Coolapk_com.csair.mbp.xml com.csair.mbp.notification.MyJPushMessageReceiver
+Coolapk_com.cto51.student.xml com.cto51.student.permission.PROCESS_PUSH_MSG
+Coolapk_com.dotools.clock.xml \ 2147483647
+Coolapk_com.duokan.phone.remotecontroller.xml com.duokan.phone.remotecontroller.permission.BROADCAST_RECEIVE com.miui.voiceassist.MVS_BROADCAST
+Coolapk_com.ecitic.bank.mobile.xml com.ecitic.bank.mobile.permission.APP_AIDL_SERVER
+Coolapk_com.example.wegoal.xml com.cjy.test.mctpush.huaweiPush.permission.PROCESS_PUSH_MSG
+Coolapk_com.greenline.guahao.xml com.greenline.guahao.permission.PROCESS_PUSH_MSG
+Coolapk_com.heartide.xinchao.stressandroid.xml com.heartide.xinchao.stressandroid.permission.PROCESS_PUSH_MSG
+Coolapk_com.hipipal.qpy3.xml com.quseit.texteditor.permission.TED_INTERNAL com.quseit.texteditor.permission.TED_INTERNAL
+Coolapk_com.inmeapp.dream.xml 1000 1000 1000 1000
+Coolapk_com.intsig.camscanner.xml com.intsig.camscanner.push.receiver
+Coolapk_com.kingpoint.gmcchh.xml cmccg5.permission.activity
+Coolapk_com.letv.android.client.xml com.stv.stvpush.permission.SEND_PUSH com.stv.stvpush.permission.SEND_PUSH
+Coolapk_com.lofter.android.xml im.yixin.sdk.permission.MM_MESSAGE
+Coolapk_com.meitu.meipaimv.xml com.meitu.remote.hotfix.permission.DEBUGGING
+Coolapk_com.meitu.meiyancamera.xml com.meitu.remote.hotfix.permission.DEBUGGING
+Coolapk_com.meitu.wheecam.xml com.meitu.remote.hotfix.permission.DEBUGGING
+Coolapk_com.meizu.notes.xml com.meizu.flyme.push.permission.SEND
+Coolapk_com.miui.calculator.xml com.miui.voiceassist.MVS_BROADCAST
+Coolapk_com.mt.mtxx.mtxx.xml com.meitu.remote.hotfix.permission.DEBUGGING
+ Coolapk_com.navinfo.gw.xml com.vivo.car.networking.CAR_PERMISSION
+Coolapk_com.netease.pris.xml im.yixin.sdk.permission.MM_MESSAGE
+Coolapk_com.oasisfeng.greenify.xml com.oasisfeng.nevo.permission.BIND_DECORATOR_SERVICE
+Coolapk_com.psyone.brainmusic.xml com.psyone.brainmusic.permission.PROCESS_PUSH_MSG
+Coolapk_com.qunar.train.xml qutui.permission.GPushReceiver.com.qunar.train
+Coolapk_com.sec.android.easyMover.xml com.sec.android.app.SecSetupWizard.permission.SHOW_SETUP_WIZARD
+Coolapk_com.sh.cm.shydhn.xml com.sh.cm.busihall.permission.BUSIHALLNATIVE
+Coolapk_com.smart.kuaidushu.xml com.smart.kuaidushu.permission.PROCESS_PUSH_MSG
+Coolapk_com.SmileIDE.SmartLock.xml android.provider.Telephony.SMS_RECEIVED
+Coolapk_com.songheng.eastsports.xml auto_inquiry
+Coolapk_com.suning.mobile.epa.xml com.suning.mobile.epa.permission.APP_AIDL_SERVER
+Coolapk_com.taobao.mobile.dipei.xml com.eg.android.AlipayGphone.MerchantPermission
+Coolapk_com.tencent.androidqqmail.xml com.tencent.androidqqmail.permission.PROCESS_PUSH_MSG
+Coolapk_com.tencent.blackkey.xml com.tencent.blackkey.permission.PROCESS_PUSH_MSG
+Coolapk_com.thinkernote.ThinkerNote.xml com.opencdk.appwidget.permission.APP_WIDGET
+Coolapk_com.tudou.android.xml com.youku.permission.Boot_Finished
+Coolapk_com.umetrip.android.msky.app.xml com.umetrip.android.msky.huawei.permission.PROCESS_PUSH_MSG
+Coolapk_com.xunmeng.pinduoduo.xml com.xunmeng.hutaoqiao.MEMORY_MONITOR_SEND com.xunmeng.hutaoqiao.XLOG_UPLOAD_SEND
+Coolapk_wangdaye.com.geometricweather.xml cyanogenmod.permission.BIND_WEATHER_PROVIDER_SERVICE
+jp.co.benesse.maitama.xml com.quantumgraph.sdk
+net.thev.vtube14284.xml net.thev.vtube14284.permission.BackgroundHandlerActivity
+tw.clotai.easyreader.xml tw.clotai.easyreader.permission.Sync
+Xiaomi_com.alibaba.ailabs.tg.xml com.alibaba.ailabs.tg.permission.NOTIFY_WIDGET
+Xiaomi_com.cmri.hgcc.jty.xml com.cmri.hgcc.jty.permission.ACCESS
+Xiaomi_com.doupin.show.xml com.ddmh.pushsdk.permission.PROCESS_PUSH_MSG
+Xiaomi_com.hikvision.sentinels.xml com.hikvision.sentinels.permission.PROCESS_PUSH_MSG
+Xiaomi_com.jiapuji.jpj.xml com.jiapuji.jpj.FLUTTER_MUSIC_PLAYER
+Xiaomi_com.smkj.days.xml com.opencdk.appwidget.permission.APP_WIDGET
+Xiaomi_com.sydauto.uav.xml TODO
+Xiaomi_com.wjkj.dyrsty.xml com.heytap.mcs.permission.SEND_MCS_MESSAG7
+Xiaomi_com.xinan.police.xml app.custom.permission2
+Xiaomi_com.yinshenxia.xml com.yinshenxia.permission.START_SUCUN_SERVICE

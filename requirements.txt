@@ -1,0 +1,7 @@
+bs4>=0.0.1
+google-play-scraper>=0.1.2
+pymongo~=3.11.2
+pandas~=1.2.1
+openpyxl~=3.0.7
+requests~=2.25.1
+beautifulsoup4~=4.9.3

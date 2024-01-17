@@ -1,0 +1,2059 @@
+360_20120806.xml com.google.android.c2dm.permission.SEND
+360_20121203.xml android.permission.BIND_DEVICE_ADMIN
+360_20121214.xml android.permission.BIND_INPUT_METHOD
+360_20130201.xml android.permission.BIND_INPUT_METHOD
+360_20130315.xml com.tencent.mm.plugin.permission.SEND
+360_20130401.xml android.permission.BIND_INPUT_METHOD
+360_20130616.xml android.permission.BIND_WALLPAPER
+360_20130617.xml com.tencent.mm.plugin.permission.SEND
+360_aihuishou.aihuishouapp.xml android.permission.BIND_JOB_SERVICE
+360_air.com.mobilestudio.prom.makeover.xml com.google.android.c2dm.permission.SEND
+360_air.com.uuon.CookingValentineCookies.xml com.google.android.c2dm.permission.SEND
+360_air.dreamspace.android.airgallery.xml com.google.android.c2dm.permission.SEND
+360_air.zhiji.app.xml com.coloros.mcs.permission.SEND_MCS_MESSAGE, com.heytap.mcs.permission.SEND_PUSH_MESSAGE,
+360_all.parttimeguidesystem.xml com.coloros.mcs.permission.SEND_MCS_MESSAGE, com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_amuseworks.thermometer.xml com.google.android.c2dm.permission.SEND
+360_app.greyshirts.sslcapture.xml android.permission.BIND_VPN_SERVICE, com.google.android.c2dm.permission.SEND
+360_appplus.mobi.lockdownpro.xml android.permission.BIND_JOB_SERVICE, android.permission.BIND_ACCESSIBILITY_SERVICE, com.google.android.c2dm.permission.SEND
+360_arrow.background.eraser.xml com.google.android.c2dm.permission.SEND
+360_black.white.tiles.xml android.permission.BIND_WALLPAPER
+360_br.com.rodrigokolb.realpiano.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE, com.google.android.c2dm.permission.SEND
+360_cc.c4d79e.l00bfc20ty.xml android.permission.BIND_INPUT_METHOD
+360_cc.gara.fish.jj.xml com.coloros.mcs.permission.SEND_MCS_MESSAGE, com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_cc.hefei.bbs.ui.xml com.coloros.mcs.permission.SEND_MCS_MESSAGE
+360_cc.qzone.xml com.coloros.mcs.permission.SEND_MCS_MESSAGE, android.permission.BIND_JOB_SERVICE
+360_ccom.ea356.lb578.xml android.permission.BIND_INPUT_METHOD
+360_chat.meme.china.xml com.coloros.mcs.permission.SEND_MCS_MESSAGE, com.google.android.c2dm.permission.SEND
+360_cim.hjz.hall.dating.xml com.tencent.mm.plugin.permission.SEND
+360_cn.artand.android.xml com.coloros.mcs.permission.SEND_MCS_MESSAGE, com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_cn.beekee.zhongtong.xml com.coloros.mcs.permission.SEND_MCS_MESSAGE, com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_cn.bevol.p.xml com.coloros.mcs.permission.SEND_MCS_MESSAGE, com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_cn.buding.martin.xml com.coloros.mcs.permission.SEND_MCS_MESSAGE, com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_cn.cntv.xml android.permission.DUMP
+360_cn.cntvhd.xml android.permission.DUMP
+360_cn.com.broadlink.econtrol.plus.xml com.google.android.c2dm.permission.SEND
+360_cn.com.dareway.mhsc.xml android.permission.BIND_NFC_SERVICE
+360_cn.com.kanjian.xml com.coloros.mcs.permission.SEND_MCS_MESSAGE, com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_cn.com.modernmedia.businessweek.xml com.google.android.c2dm.permission.SEND
+360_cn.com.pansky.hzrs.xml android.permission.BIND_JOB_SERVICE
+360_cn.com.pcauto.android.browser.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_cn.com.pconline.android.browser.xml com.coloros.mcs.permission.SEND_MCS_MESSAGE, com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_cn.com.sina.sports.xml com.coloros.mcs.permission.SEND_MCS_MESSAGE
+360_cn.cty.hbzw.xml com.coloros.mcs.permission.SEND_MCS_MESSAGE, com.heytap.mcs.permission.SEND_MCS_MESSAGE, com.miui.securitycenter.permission.AppPermissionsEditor
+360_cn.damai.xml com.coloros.mcs.permission.SEND_MCS_MESSAGE, com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_cn.dlc.cranemachine.xml com.miui.securitycenter.permission.AppPermissionsEditor
+360_cn.duome.winnerc.xml com.coloros.mcs.permission.SEND_MCS_MESSAGE, com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_cn.echuzhou.qianfan.xml com.coloros.mcs.permission.SEND_MCS_MESSAGE, com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_cn.eclicks.wzsearch.xml com.coloros.mcs.permission.SEND_MCS_MESSAGE, com.heytap.mcs.permission.SEND_PUSH_MESSAGE, com.coloros.mcs.permission.SEND_MCS_MESSAGE, com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_cn.edaijia.android.client.xml com.coloros.mcs.permission.SEND_MCS_MESSAGE, com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_cn.fmsyjhgb.xml android.permission.DUMP, com.google.android.c2dm.permission.SEND
+360_cn.guancha.app.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE, com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_cn.huntlaw.android.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE, com.google.android.c2dm.permission.SEND
+360_cn.ibuka.manga.ui.xml com.tencent.mm.plugin.permission.SEND
+360_cn.innogeek.cp.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE, com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_cn.kdqbxs.reader.xml com.tencent.mm.plugin.permission.SEND
+360_cn.kuwo.juxing.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_cn.leaves.sdclean.xml com.google.android.c2dm.permission.SEND
+360_cn.lnts.android.sghome.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_cn.longmaster.pengpeng.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_cn.lt.game.xml android.permission.BIND_ACCESSIBILITY_SERVICE
+360_cn.mimilive.sysm.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_cn.mimilive.xianyu.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_cn.missfresh.application.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_cn.mucang.android.parallelvehicle.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_cn.mucang.kaka.android.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE, cn.mucang.android.weizhang.SDK_RECEIVER
+360_cn.mucang.xiaomi.android.wz.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE, cn.mucang.android.weizhang.SDK_RECEIVER
+360_cn.myhug.baobao.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_cn.neoclub.uki.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE, android.permission.DUMP
+360_cn.netdroid.shengdiandashi.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+360_cn.orangelab.werewolf.xml com.google.android.c2dm.permission.SEND
+360_cn.qlwb.qlwb.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE, com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_cn.sharesmile.enjoychat.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE, com.heytap.mcs.permission.SEND_PUSH_MESSAGE, com.google.android.c2dm.permission.SEND
+360_cn.soulapp.android.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_cn.thecover.www.covermedia.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE, com.google.android.c2dm.permission.SEND
+360_cn.trackview.shentan.xml com.google.android.c2dm.permission.SEND
+360_cn.TuHu.android.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_cn.v6.sixrooms.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_cn.v6.xiuchang.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_cn.vcinema.cinema.xml com.tencent.mm.plugin.permission.SEND, com.google.android.c2dm.permission.SEND
+360_cn.w31c9cc2.z0f38e3.xml android.permission.BIND_INPUT_METHOD
+360_cn.wejuan.reader.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_cn.weli.story.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_cn.wlantv.kznk.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_cn.wmlive.hhvideo.xml com.google.android.c2dm.permission.SEND
+360_cn.xiaochuankeji.tieba.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE, com.tencent.mm.plugin.permission.SEND
+360_cn.zjw.qjm.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE, android.permission.DUMP
+360_cn.zymk.comic.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.a0soft.gphone.app2sd.xml com.google.android.c2dm.permission.SEND
+360_com.a1899900955142d976091626a.a70349786a.xml com.google.android.c2dm.permission.SEND
+360_com.aahl.zrl.xml com.tencent.mm.plugin.permission.SEND
+360_com.abao.yuai.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.abifong.mfxssc.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.aboutjsp.memowidget.xml com.google.android.c2dm.permission.SEND
+360_com.actionsmicro.ezcast.xml com.google.android.c2dm.permission.SEND
+360_com.adnonstop.camera21.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.adobe.air.xml com.google.android.c2dm.permission.SEND
+360_com.adoumeng.doumeng.xml com.tencent.qcloud.tim.tuikit.permission.PROCESS_PUSH_MSG, com.google.android.c2dm.permission.SEND
+360_com.afa.recovery.xml android.permission.DUMP
+360_com.aide.ui.xml com.google.android.c2dm.permission.SEND
+360_com.aishuke.ledu.xml android.permission.BIND_JOB_SERVICE
+360_com.aishukeem360.ledu.xml android.permission.BIND_JOB_SERVICE
+360_com.aitype.android.xml android.permission.BIND_INPUT_METHOD, com.google.android.c2dm.permission.SEND, com.google.android.c2dm.permission.SEND
+360_com.aiyundong.cn.xml android.permission.DUMP
+360_com.alex.e.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.algoriddim.djay.xml com.google.android.c2dm.permission.SEND
+360_com.allin.social.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.aloggers.atimeloggerapp.xml com.google.android.c2dm.permission.SEND
+360_com.alpha.lagouapk.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.amazon.kindlefc.xml com.google.android.c2dm.permission.SEND, com.google.android.c2dm.permission.SEND
+360_com.amigo.dj.xml android.provider.Telephony.SMS_RECEIVED
+360_com.android.chrome.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE, com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE, com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE, com.google.android.c2dm.permission.SEND, com.google.android.gms.permission.APPINDEXING
+360_com.android.input.jswb.xml android.permission.BIND_INPUT_METHOD
+360_com.android.launcher5.oldlauncher.xml android.permission.SEND_RESPOND_VIA_MESSAGE
+360_com.android.lesdo.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.android.lzlj.xml com.google.android.c2dm.permission.SEND
+360_com.android.pickbox.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE, com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+360_com.android.qfangpalm.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE, com.google.android.c2dm.permission.SEND
+360_com.android.thewongandonly.QuickDraw.xml com.google.android.c2dm.permission.SEND
+360_com.android.wangma.wangma86wb.xml android.permission.BIND_INPUT_METHOD
+360_com.android.xiangcunshuangwen.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.androidlord.cacheclear.xml com.google.android.c2dm.permission.SEND
+360_com.androvid.xml com.google.android.c2dm.permission.SEND
+360_com.anguanjia.security.xml android.permission.SEND_RESPOND_VIA_MESSAGE
+360_com.anjuke.android.app.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.anjuke.android.newbroker.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.anysoft.tyyd.xml com.tencent.mm.plugin.permission.SEND
+360_com.apkol.lockwechat.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+360_com.app.huibo.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE, com.heytap.mcs.permission.SEND_PUSH_MESSAGE, com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.app.lrlisten.xml com.tencent.mm.plugin.permission.SEND
+360_com.app.xsxpjx.xml android.permission.BIND_WALLPAPER
+360_com.app51rc.androidproject51rc.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.appbyme.app101945.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE, com.google.android.c2dm.permission.SEND
+360_com.appbyme.app177150.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.appbyme.app71974.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.applisto.appcloner.xml com.google.android.c2dm.permission.SEND
+360_com.appsverse.photon.xml com.google.android.c2dm.permission.SEND
+360_com.arnx.soundbooster.xml android.permission.BIND_WALLPAPER
+360_com.asiainno.uplive.xml com.google.android.c2dm.permission.SEND, com.google.android.c2dm.permission.SEND
+360_com.astragon.trucksim.xml com.google.android.c2dm.permission.SEND
+360_com.asus.ime.xml android.permission.BIND_INPUT_METHOD
+360_com.at.autovideosregistrator.xml com.google.android.c2dm.permission.SEND
+360_com.auto.learning.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.autohome.mycar.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.axeonly.launcher.xml com.axeonly.launcher.widget.taskmanager
+360_com.badmintoncn.bbs.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.baidu.hao123.xml android.permission.BIND_QUICK_SETTINGS_TILE, com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.baidu.haokan.xml android.permission.BIND_JOB_SERVICE, com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.baidu.input.xml android.permission.BIND_INPUT_METHOD
+360_com.baidu.minivideo.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.baidu.searchbox.xml android.permission.BIND_QUICK_SETTINGS_TILE, com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.baidu.tieba.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.baihe.meet.xml com.tencent.mm.plugin.permission.SEND
+360_com.baihe.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.baloota.dumpster.xml android.permission.BIND_QUICK_SETTINGS_TILE, com.google.android.c2dm.permission.SEND, com.google.android.c2dm.permission.SEND
+360_com.banbantv.show.xml android.permission.BIND_JOB_SERVICE
+360_com.banciyuan.bcywebview.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.banshenghuo.mobile.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.baojiazhijia.qichebaojia.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.battlelancer.seriesguide.xml com.google.android.apps.dashclock.permission.READ_EXTENSION_DATA
+360_com.baxlan.video.xml android.permission.BIND_JOB_SERVICE, com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.beatronik.djstudiodemo.xml com.google.android.c2dm.permission.SEND
+360_com.beihai365.forum.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE, com.google.android.c2dm.permission.SEND
+360_com.beka.tools.mp4cutter.xml com.google.android.c2dm.permission.SEND
+360_com.benderapp.xml com.google.android.c2dm.permission.SEND
+360_com.bestv.app.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.bhu.wifioverlook.xml android.permission.BIND_VPN_SERVICE, de.blinkt.openvpn.REMOTE_API, de.blinkt.openvpn.REMOTE_API, de.blinkt.openvpn.REMOTE_API
+360_com.bilibili.comic.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.bingo.privacy.xml android.permission.BIND_WALLPAPER
+360_com.bingo.yeliao.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.bitstrips.imoji.xml android.permission.BIND_INPUT_METHOD, com.snapchat.android.permission.UPDATE_STICKER_INDEX, com.snapchat.android.debug.permission.UPDATE_STICKER_INDEX, com.snapchat.android.master.permission.UPDATE_STICKER_INDEX, com.google.android.apps.inputmethod.latin.permission.UPDATE_STICKER_INDEX, com.google.android.apps.inputmethod.latin.dev.permission.UPDATE_STICKER_INDEX, com.google.android.gms.permission.APPINDEXING, com.google.android.c2dm.permission.SEND
+360_com.bittorrent.client.pro.xml com.google.android.c2dm.permission.SEND
+360_com.blizzard.bma.xml com.android.permission.SEND_NETEASE_POMELO_PUSH_SERVICE_BLIZZARD, com.android.permission.SEND_NETEASE_POMELO_PUSH_SERVICE_BLIZZARD, com.android.permission.SEND_NETEASE_POMELO_PUSH_SERVICE_BLIZZARD, com.google.android.c2dm.permission.SEND
+360_com.blizzard.messenger.xml com.google.android.c2dm.permission.SEND
+360_com.blockmeta.bbs.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.bmcc.ms.ui.xml android.permission.BIND_VPN_SERVICE, com.tencent.mm.plugin.permission.SEND
+360_com.boc.bocwechat.xml android.permission.BIND_NFC_SERVICE
+360_com.bokecc.dance.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.bork.dsp.datuna.xml com.google.android.c2dm.permission.SEND, com.google.android.c2dm.permission.SEND
+360_com.boukhatem.app.android.soundeffects.xml com.google.android.c2dm.permission.SEND
+360_com.browser2345.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.btb.minihompy.xml com.google.android.c2dm.permission.SEND
+360_com.bugua.fight.xml com.tencent.mm.oauth.permission.SEND, com.tencent.mm.plugin.permission.SEND, com.tencent.mm.plugin.permission.SEND
+360_com.cadenas.cadmodels.xml com.google.android.c2dm.permission.SEND, com.amazon.device.messaging.permission.SEND, com.google.android.c2dm.permission.SEND
+360_com.caijing.xml com.google.android.c2dm.permission.SEND
+360_com.caing.news.xml android.permission.DUMP
+360_com.cainiao.wireless.xml android.permission.BIND_NFC_SERVICE, com.heytap.mcs.permission.SEND_PUSH_MESSAGE, android.permission.BIND_NFC_SERVICE
+360_com.caishi.cronus.xml android.permission.BIND_JOB_SERVICE
+360_com.calm.android.xml com.google.android.c2dm.permission.SEND
+360_com.car300.activity.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.cashtoutiao.xml android.permission.BIND_JOB_SERVICE
+360_com.catchingnow.icebox.xml android.permission.BIND_QUICK_SETTINGS_TILE
+360_com.cba.score.xml com.tencent.mm.plugin.permission.SEND
+360_com.ccb.workerharbor.xml android.permission.BIND_JOB_SERVICE
+360_com.ccbhome.lanhai.xml android.permission.BIND_NFC_SERVICE
+360_com.cd.minecraft.mclauncher.xml com.tencent.mm.plugin.permission.SEND
+360_com.cdv.video360.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.centaline.androidsalesblog.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE, com.heytap.mcs.permission.SEND_PUSH_MESSAGE, com.heytap.mcs.permission.SEND_PUSH_MESSAGE, android.permission.DUMP
+360_com.cgacar.hyc.xml android.permission.BIND_NFC_SERVICE
+360_com.changcheng.newsapp.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.changdu.xml com.tencent.mm.plugin.permission.SEND
+360_com.changshuo.ui.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.chaoxing.mobile.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.chaoxing.openuniversity.xml com.tencent.mm.plugin.permission.SEND
+360_com.chaozh.iReaderFree.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE, com.tencent.mm.plugin.permission.SEND
+360_com.chaozh.iReaderFree15.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE, com.tencent.mm.plugin.permission.SEND
+360_com.chartcross.gpstest.xml com.google.android.c2dm.permission.SEND
+360_com.chenai.eyes.xml android.permission.BIND_WALLPAPER
+360_com.china.mobile.chinamilitary.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.chinahr.android.m.xml android.permission.BIND_JOB_SERVICE
+360_com.chinamobile.mcloud.xml android.permission.SEND_RESPOND_VIA_MESSAGE, com.cmri.universalapp.permission.ACCESS, com.cmri.universalapp.permission.ACCESS, com.cmri.universalapp.permission.ACCESS, com.cmri.universalapp.permission.ACCESS, com.cmri.universalapp.permission.ACCESS, com.cmri.universalapp.permission.ACCESS
+360_com.chrome.dev.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE, com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE, com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE, com.google.android.c2dm.permission.SEND, com.google.android.gms.permission.APPINDEXING
+360_com.citicpub.fly.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.cleanmasterpro.clean.boost.xml com.google.android.c2dm.permission.SEND
+360_com.cliff.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE, android.permission.DUMP
+360_com.clov4r.android.nil.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+360_com.cmcc.cmvideo.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.cmcc.gs.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.cmcc.hemuyi.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.cmf.cqwallet.xml android.permission.BIND_NFC_SERVICE
+360_com.cmstop.jstt.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.cmvideo.migumovie.xml android.permission.BIND_JOB_SERVICE
+360_com.cnlive.strike.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.cns.mc.activity.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.colure.app.privacygallery.xml com.google.android.c2dm.permission.SEND
+360_com.com.baomihuawang.androidclient.xml com.google.android.c2dm.permission.SEND
+360_com.comcsoft.izip.xml com.google.android.c2dm.permission.SEND
+360_com.comic.isaman.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.comic.iyouman.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.comic.manhuatai.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.comic.shenmanhua.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.coolapk.market.xml android.permission.DUMP
+360_com.coolapps.doutu.xml com.google.android.c2dm.permission.SEND
+360_com.cqmc.client.xml android.permission.BIND_VPN_SERVICE
+360_com.crc.hrt.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.csztv.yyk.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.ct.client.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE, android.permission.DUMP
+360_com.cubic.autohome.xml android.permission.BIND_JOB_SERVICE
+360_com.cubic.choosecar.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.cutv.mobile.zsncclient.xml android.permission.DUMP
+360_com.cutv.ningbo.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.cutv.shakeshake.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.cutvideo.maker.setting.xml com.google.android.c2dm.permission.SEND
+360_com.cxyw.suyun.ui.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.cyberlink.powerdvd.PMA140804.xml com.google.android.c2dm.permission.SEND
+360_com.cyjh.mobileanjian.xml android.permission.BIND_INPUT_METHOD
+360_com.cyou.clean.xml com.google.android.c2dm.permission.SEND
+360_com.cyzone.news.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.dada.mobile.android.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.daile.youlan.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE, com.tencent.mm.plugin.permission.SEND
+360_com.daimajia.gold.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.dajia.view.beijingjianhang.xml android.permission.BIND_JOB_SERVICE, android.permission.BIND_NFC_SERVICE
+360_com.dalongtech.cloud.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.dankegongyu.customer.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.daohang2345.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.daojia.jz.ayi.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.daoxila.android.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.dazhangqiu.forum.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE, com.google.android.c2dm.permission.SEND
+360_com.devuni.compass.xml com.google.android.c2dm.permission.SEND
+360_com.dianping.v1.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE, com.tencent.mm.plugin.permission.SEND
+360_com.dianshijia.tvlive.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.dianwoda.merchant.xml android.permission.BIND_JOB_SERVICE
+360_com.diehl.izarapp.luoyang.xml com.google.android.c2dm.permission.SEND
+360_com.digitalchina.mobile.dfhfz1.xml android.permission.BIND_NFC_SERVICE
+360_com.dingdianxiaoshuo.ebook.app.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE, com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.dingtai.wxhn.activity.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.diyidan.dongman.xml android.permission.BIND_WALLPAPER, com.alipay.mobile.command.trigger.permission
+360_com.diyidan.xml android.permission.BIND_WALLPAPER
+360_com.dlink.QRSmobile.xml com.google.android.c2dm.permission.SEND
+360_com.dnsdojo.mokkouyou.android.volume.xml com.google.android.c2dm.permission.SEND
+360_com.domobile.applock.xml com.google.android.c2dm.permission.SEND
+360_com.dotools.rings.xml android.permission.BIND_WALLPAPER, android.permission.BIND_INCALL_SERVICE
+360_com.douban.book.reader.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.douban.frodo.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.doubleiq.podcast.xml com.google.android.c2dm.permission.SEND
+360_com.doudou.ysvideo.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.douguo.recipe.xml com.tencent.mm.plugin.permission.SEND
+360_com.dpx.kujiang.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.dragonpass.activity.xml com.tencent.mm.plugin.permission.SEND
+360_com.drip.live.xml android.permission.BIND_JOB_SERVICE, com.tencent.mm.plugin.permission.SEND
+360_com.drm.wallpaper.fq.xml com.google.android.c2dm.permission.SEND
+360_com.ducta.wallpaper.animation.spiderman.xml android.permission.BIND_WALLPAPER
+360_com.dudiangushi.dudiangushi.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.duitang.main.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.duowan.gamevoice.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.duowan.kiwi.xml android.permission.BIND_JOB_SERVICE, com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.duowan.live.xml android.permission.BIND_JOB_SERVICE, com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.duowan.mobile.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.dute.dutenews.xml com.google.android.c2dm.permission.SEND
+360_com.dwd.rider.xml android.permission.BIND_NFC_SERVICE, android.permission.BIND_NFC_SERVICE
+360_com.dzwww.sd.android.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE, com.tencent.mm.plugin.permission.SEND
+360_com.ebnews.xml com.tencent.mm.plugin.permission.SEND
+360_com.eclipsim.gpsstatus2.xml com.google.android.c2dm.permission.SEND
+360_com.economics168.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE, com.google.android.c2dm.permission.SEND
+360_com.economist.hummingbird.xml com.tencent.mm.plugin.permission.SEND, com.google.android.c2dm.permission.SEND
+360_com.edjing.edjingdjturntable.xml com.google.android.c2dm.permission.SEND
+360_com.edujia.ime.xml android.permission.BIND_INPUT_METHOD
+360_com.entrobus.dreamlife.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE, com.miui.securitycenter.permission.AppPermissionsEditor
+360_com.eques.doorbell.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE, com.google.android.c2dm.permission.SEND
+360_com.esbook.reader.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.estmob.android.sendanywhere.xml com.google.android.c2dm.permission.SEND, com.google.android.c2dm.permission.SEND, com.google.android.c2dm.permission.SEND
+360_com.etwod.yulin.android.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.example.businesshall.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE, com.tencent.mm.plugin.permission.SEND, com.miui.securitycenter.permission.AppPermissionsEditor
+360_com.example.cifnews.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.example.wygxw.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.excean.dualaid.xml com.tencent.mm.plugin.permission.SEND
+360_com.excean.masteraid.xml com.tencent.mm.plugin.permission.SEND
+360_com.excean.multiaid.xml com.tencent.mm.plugin.permission.SEND
+360_com.facebook.groups.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE, com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE, com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE, com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE, com.amazon.device.messaging.permission.SEND, com.nokia.pushnotifications.permission.SEND, com.google.android.c2dm.permission.SEND
+360_com.faloo.BookReader4Android.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.fangdd.mobile.realtor.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.fansapk.rootex.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+360_com.fanshu.daily.xml com.tencent.mm.plugin.permission.SEND, com.google.android.c2dm.permission.SEND
+360_com.fanshu.xiaozu.xml com.tencent.mm.plugin.permission.SEND, com.google.android.c2dm.permission.SEND
+360_com.fantuantanshujbk.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.fcbox.hiveconsumer.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.feiniu.actogo.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.feiteng.lieyou.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.feng.car.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.fengshows.video.xml com.google.android.c2dm.permission.SEND
+360_com.fenzotech.jimu.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.first75.voicerecorder2.xml com.google.android.c2dm.permission.SEND
+360_com.flexaspect.android.everycallcontrol.xml android.permission.BIND_INCALL_SERVICE, android.permission.SEND_RESPOND_VIA_MESSAGE, android.permission.BIND_SCREENING_SERVICE, com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE, com.google.android.c2dm.permission.SEND
+360_com.flyersoonreader.xml com.google.android.c2dm.permission.SEND
+360_com.fortune.mobile.unitv.xml com.tencent.mm.plugin.permission.SEND
+360_com.fotoable.applock.xml com.google.android.c2dm.permission.SEND
+360_com.founder.apabi.reader.xml BROADCAST_STICKY
+360_com.frapeti.androidbotmaker.xml com.google.android.c2dm.permission.SEND
+360_com.freeirtv.xml com.google.android.c2dm.permission.SEND
+360_com.friendlove.huyan.xml android.permission.BIND_WALLPAPER
+360_com.fusionmedia.investingCN.xml com.amazon.device.messaging.permission.SEND, com.google.android.c2dm.permission.SEND
+360_com.futuredial.asusdatatransfer.xml android.permission.SEND_RESPOND_VIA_MESSAGE, com.futuredial.datatransfer.broadcast, com.google.android.c2dm.permission.SEND
+360_com.fvcorp.android.aijiasuclient.xml android.permission.BIND_VPN_SERVICE
+360_com.fyfeng.happysex.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.gameloft.android.ANMP.GloftDYHM.xml com.google.android.c2dm.permission.SEND
+360_com.ganji.android.haoche.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.ganji.android.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.gdswww.wzlyapplication.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.gdwx.cnwest.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.gidea.squaredance.xml com.tencent.mm.plugin.permission.SEND
+360_com.glgrxbtg.ulacaqey.yhfsfeww.xml android.permission.BIND_VPN_SERVICE, android.permission.BIND_VPN_SERVICE, com.google.android.c2dm.permission.SEND
+360_com.gogosu.gogosuandroid.xml com.google.android.c2dm.permission.SEND
+360_com.gombosdev.ampere.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE, com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+360_com.gonlan.iplaymtg.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.google.android.apps.adm.xml com.google.android.c2dm.permission.SEND
+360_com.google.android.apps.books.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE, com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE, com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE, com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE, com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE, com.google.android.c2dm.permission.SEND, com.google.android.gms.permission.APPINDEXING, com.google.android.c2dm.permission.SEND
+360_com.google.android.apps.chrometophone.xml com.google.android.c2dm.permission.SEND
+360_com.google.android.apps.enterprise.dmagent.xml com.google.android.c2dm.permission.SEND, com.google.android.c2dm.permission.SEND
+360_com.google.android.apps.genie.geniewidget.xml android.permission.BIND_DREAM_SERVICE, com.google.android.c2dm.permission.SEND
+360_com.google.android.apps.inputmethod.cantonese.xml android.permission.BIND_INPUT_METHOD
+360_com.google.android.apps.inputmethod.zhuyin.xml android.permission.BIND_INPUT_METHOD, com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE, com.google.android.c2dm.permission.SEND
+360_com.google.android.apps.magazines.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE, com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE, com.google.android.c2dm.permission.SEND
+360_com.google.android.apps.nbu.files.xml android.permission.BIND_QUICK_SETTINGS_TILE, com.google.android.gms.permission.PHENOTYPE_UPDATE_BROADCAST, com.google.android.c2dm.permission.SEND
+360_com.google.android.inputmethod.japanese.xml android.permission.BIND_INPUT_METHOD, com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+360_com.google.android.inputmethod.latin.xml android.permission.BIND_INPUT_METHOD, android.permission.BIND_TEXT_SERVICE
+360_com.google.android.street.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+360_com.google.android.tts.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+360_com.google.android.videos.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE, com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE, com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE, com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE, com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE, com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE, com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE, com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE, com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE, com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE, com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE, com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE, com.google.android.gms.permission.APPINDEXING
+360_com.google.android.youtube.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE, com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+360_com.goplaycn.googleinstall.xml android.permission.BIND_VPN_SERVICE
+360_com.gorkor.gk.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.gov.cn.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.guagua.guagua.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.guagua.qiqi.live.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.guazi.android.chesupai.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.guazi.newcar.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.guobi.inputmethod.xml android.permission.BIND_INPUT_METHOD
+360_com.guojiang.meitu.boys.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.gxrcw.activity.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.haidilao.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.haier.uhome.uplus.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.haier.uhome.washer.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.hanfuhui.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE, com.hanfuhui.permission.PROCESS_PUSH_MSG
+360_com.hanvon.inputmethod.calla.xml android.permission.BIND_INPUT_METHOD
+360_com.hanvon.inputmethod.callaime.xml android.permission.BIND_INPUT_METHOD
+360_com.hanweb.android.jszwfw.activity.xml android.permission.BIND_NFC_SERVICE, com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.hanweb.android.zhejiang.activity.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.haobo.huilife.xml android.permission.BIND_VPN_SERVICE, com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.happyfishing.fungo.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE, com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.hbcmcc.hyh.xml android.permission.SEND_RESPOND_VIA_MESSAGE
+360_com.hbmcc.heshenghuo.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.hchina.backup.xml android.permission.SEND_RESPOND_VIA_MESSAGE
+360_com.hexun.news.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.hftv.wxdl.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.hh85.liyiquan.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.hiibox.jiulongpo.activity.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.hipu.yidian.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.hisense.ms.fly2tv.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.hisunflytone.android.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.hk.reader.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.hlds.cp.xml com.hlds.cp.receiver.permission.PROCESS_PUSH_MSG
+360_com.hmkx.zgjkj.xml 800
+360_com.hoge.android.app.fujian.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE, com.miui.securitycenter.permission.AppPermissionsEditor
+360_com.hoge.android.app.hdd.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.hoge.android.app.taizhou.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.hoge.android.app.zhoushan.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.homelink.android.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.hometool.kxg.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE, com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+360_com.hongbeibang.app.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.hongxiu.app.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.hoperun.intelligenceportal.xml android.permission.SEND_RESPOND_VIA_MESSAGE
+360_com.house365.newhouse.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.hp.eprint.ppl.client.xml android.permission.BIND_PRINT_SERVICE
+360_com.hpbr.bosszhipin.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.hpbr.directhires.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE, com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.huabenapp.danmei.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.huabenapp.love.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.huabenapp.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.huajiao.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.huang.hl.xml android.permission.BIND_INPUT_METHOD
+360_com.huawei.himovie.xml huawei.android.permission.ABILITY_FOR_HIVOICE, huawei.android.permission.ABILITY_FOR_HIVOICE, huawei.android.permission.ABILITY_FOR_HIVOICE, huawei.android.permission.ABILITY_FOR_HIVOICE
+360_com.huiian.timing.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE, com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.hunantv.imgo.activity.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.hupu.games.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.huxiu.xml android.permission.BIND_QUICK_SETTINGS_TILE, com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.hybunion.member.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.hyhy.view.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.hz.czfw.app.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.hzpd.jwztc.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.hzpd.xmwb.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.hzsj.yymlyh.xml com.tencent.mm.plugin.permission.SEND
+360_com.icecoldapps.screenshoteasy.xml android.permission.BIND_QUICK_SETTINGS_TILE, android.permission.BIND_QUICK_SETTINGS_TILE, android.permission.BIND_QUICK_SETTINGS_TILE, android.permission.BIND_VOICE_INTERACTION
+360_com.icnkr.xinhua.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.iconnect.app.keyboard.xml android.permission.BIND_INPUT_METHOD
+360_com.ifeng.news2.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.ifeng.newvideo.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.ifext.news.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.iflytek.inputmethod.xiaomi.xml android.permission.BIND_INPUT_METHOD
+360_com.iflytek.inputmethods.DungkarIME.xml android.permission.BIND_INPUT_METHOD
+360_com.iflytek.mea.vbgvideo.xml com.tencent.mm.plugin.permission.SEND
+360_com.iflytek.oshall.ahzwfw.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.ifreetalk.ftalk.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE, com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.ihuaj.gamecc.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.imbb.banban.android.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.immomo.momo.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.imtanbao.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE, com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.infinitequanzhou.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.infzm.ireader.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.inmeapp.dream.xml 1000, 1000, 1000, 1000
+360_com.inphase.itv.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.inspur.icity.icityapp.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.insthub.voguemini.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.ipiaoniu.android.xml com.tencent.mm.plugin.permission.SEND
+360_com.iqianggou.android.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.iqiyi.acg.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.iqiyi.paopao.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.iqiyi.qixiu.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.isharing.isharing.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE, com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+360_com.ishehui.tiger.xml com.tencent.mm.plugin.permission.SEND
+360_com.jdd.motorfans.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.jh.APP361212.news.xml im.yixin.sdk.permission.YIXIN_SDK_MESSAGE
+360_com.jh.APPbb9356a4613049f0bab7f6b4e9fbb973.news.xml im.yixin.sdk.permission.YIXIN_SDK_MESSAGE
+360_com.jiayuan.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.jingdian.tianxiameishi.android.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.jisetv.iptv.activity.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.jj.mitao2.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE, com.tencent.mm.plugin.permission.SEND
+360_com.jj.shows.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE, com.tencent.mm.plugin.permission.SEND
+360_com.jmbbs.activity.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.joaomgcd.autovoice.xml android.permission.BIND_VOICE_INTERACTION, com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+360_com.jobcn.android.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.jootun.hudongba.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.jpzwwj.android.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.jshx.pinganyun.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.juanvision.EseeNetProj.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+360_com.julun.lingmeng.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.jumobile.apk.mgr.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+360_com.justsystems.atokmobile.service.xml android.permission.BIND_INPUT_METHOD
+360_com.jx.cmcc.ict.ibelieve.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE, com.cmri.universalapp.permission.ACCESS, com.cmri.universalapp.permission.ACCESS, com.cmri.universalapp.permission.ACCESS, com.cmri.universalapp.permission.ACCESS, com.cmri.universalapp.permission.ACCESS, com.cmri.universalapp.permission.ACCESS, com.cmri.universalapp.permission.ACCESS, com.cmri.universalapp.permission.ACCESS, com.cmri.universalapp.permission.ACCESS, com.cmri.universalapp.permission.ACCESS
+360_com.jykt.magic.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.kaihei.baoji.xml com.tencent.mm.plugin.permission.SEND
+360_com.kanshu.ksgb.fastread.doudou.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.kascend.chushou.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.keyou.jxyhclient.xml com.tencent.mm.plugin.permission.SEND
+360_com.kingpoint.gmcchh.xml android.permission.BIND_VPN_SERVICE, com.heytap.mcs.permission.SEND_MCS_MESSAGE, cmccg5.permission.activity
+360_com.kitkatandroid.keyboard.xml android.permission.BIND_INPUT_METHOD, android.permission.BIND_TEXT_SERVICE, android.permission.BIND_WALLPAPER
+360_com.klye.ime.latin.xml android.permission.BIND_INPUT_METHOD
+360_com.kmxs.reader.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.komoxo.octopusime.xml android.permission.BIND_INPUT_METHOD, android.permission.BIND_WALLPAPER
+360_com.kp5000.Main.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.kshot.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.kuaigeng.video.xml tv.yixia.bobo.fundation.communication.AIDL_SERVICE
+360_com.kuaikan.comic.xml android.permission.BIND_NFC_SERVICE
+360_com.kugou.fanxing.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.lalamove.huolala.client.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE, com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.lalamove.huolala.driver.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.lalamove.huolala.eclient.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.lanjingren.ivwen.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE, com.heytap.mcs.permission.SEND_PUSH_MESSAGE, com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.laolaiwangtech.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.laoyuegou.android.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.lchr.diaoyu.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE, com.heytap.mcs.permission.SEND_PUSH_MESSAGE, com.bearever.push.RECEIVER
+360_com.ldzs.zhangxin.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.le123.ysdq.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.lechuan.midunovel.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.lectek.android.sfreader.xml com.tencent.mm.plugin.permission.SEND
+360_com.lemon.reader.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.lenovo.browser.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.letv.android.client.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE, com.stv.stvpush.permission.SEND_PUSH, com.stv.stvpush.permission.SEND_PUSH
+360_com.lianaibiji.dev.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.lianjia.beike.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.lietou.mishu.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.lion.market.xml android.permission.BIND_VPN_SERVICE
+360_com.lizhi.pplive.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.ljmobile.tools.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+360_com.lofter.android.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE, im.yixin.sdk.permission.MM_MESSAGE, im.yixin.sdk.permission.YIXIN_SDK_MESSAGE
+360_com.lonelycatgames.Xplore.xml android.permission.BIND_QUICK_SETTINGS_TILE
+360_com.loovee.ddleyuan.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.loovee.fastwawa.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.loovee.hjwawa.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE, com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.loovee.wawaji.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.lu.newsbanner.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.ludashi.benchmark.xml android.permission.BIND_QUICK_SETTINGS_TILE, android.permission.BIND_QUICK_SETTINGS_TILE, android.permission.BIND_WALLPAPER, com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.lysoft.android.lyyd.report.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.m1905.mobilefree.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.m4399.youpai.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.macapp.android.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.magic.clmanager.xml android.permission.SEND_RESPOND_VIA_MESSAGE
+360_com.mallestudio.gugu.app.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.marryu.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.martian.ttbook.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.marykay.cn.productzone.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE, com.tencent.mm.plugin.permission.SEND
+360_com.masok.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.maxistar.monobluetoothfree.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+360_com.mchsdk.teamproject.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.mci.smagazine.xml com.tencent.mm.plugin.permission.SEND
+360_com.meelive.ingkee.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE, com.tencent.mm.plugin.permission.SEND
+360_com.meijialove.activity.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.meiliao.sns2.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.meiliyue.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE, com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.meimei.yulove.xml com.tencent.mm.plugin.permission.SEND
+360_com.melon.lazymelon.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.melot.meshow.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE, com.tencent.mm.plugin.permission.SEND
+360_com.mengjun.DanNovel.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE, com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.menny.android.anysoftkeyboard.xml android.permission.BIND_INPUT_METHOD
+360_com.merchantplatform.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.mfyueduqi.book.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.mgyun.onelocker.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+360_com.mianfei.book.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.mianfeia.book.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.mianfeinovel.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE, com.heytap.mcs.permission.SEND_PUSH_MESSAGE, com.tencent.mm.plugin.permission.SEND
+360_com.mianfeizs.book.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.microsoft.emmx.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE, com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE, com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE, com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE, com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+360_com.midainc.dcfbws.xml android.permission.BIND_WALLPAPER, android.permission.BIND_WALLPAPER
+360_com.midainc.mgamread.xml android.permission.BIND_WALLPAPER, android.permission.BIND_WALLPAPER
+360_com.midainc.qlxz.stronguninstall.xml android.permission.BIND_WALLPAPER, android.permission.BIND_WALLPAPER
+360_com.midainc.wifipassword.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE, android.permission.BIND_WALLPAPER, android.permission.BIND_WALLPAPER
+360_com.midainc.wifiup.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE, android.permission.BIND_WALLPAPER, android.permission.BIND_WALLPAPER
+360_com.midainc.wxpass.wxmmpjq.xml android.permission.BIND_WALLPAPER, com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.midea.ai.appliances.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.midea.vm.washer.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.migu.book.zhongxin.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.mizhai.pozhu.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.mm.android.lc.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.mm.peiliao.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE, com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.mm.youliao.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE, com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.mobimtech.natives.ivp.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.mocuz.xianyubbs.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.movisoft.photostory.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+360_com.mszmapp.detective.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE, com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.mt.yyzb.xml com.tencent.mm.plugin.permission.SEND
+360_com.muta.yanxi.xml android.permission.BIND_WALLPAPER
+360_com.mvmtv.mvmplayer.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.mxzwwj.android.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.my0511.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.mydream.wifi.xml android.permission.BIND_WALLPAPER, com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.myxianwen.nanguozaobao.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.myzaker.ZAKER.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.nandu.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.nanyibang.nomi.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.naver.linewebtoon.cn.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.nd.android.pandareader.xml com.tencent.mm.plugin.permission.SEND
+360_com.nema.batterycalibration.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE, com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+360_com.netease.blockchain.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.netease.bookbag.officialdom.xml com.tencent.mm.plugin.permission.SEND
+360_com.netease.camera.xml im.yixin.sdk.permission.YIXIN_SDK_MESSAGE
+360_com.netease.cc.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.netease.huatian.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.netease.news.lite.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.netease.newsreader.activity.xml com.huawei.hicar.HICAR_PERMISSION_SYSTEM, com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.netease.nieapp.xml android.permission.BIND_CHOOSER_TARGET_SERVICE
+360_com.netease.play.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE, com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.netease.pris.xml com.tencent.mm.plugin.permission.SEND, im.yixin.sdk.permission.MM_MESSAGE
+360_com.netease.snailread.xml im.yixin.sdk.permission.YIXIN_SDK_MESSAGE
+360_com.netease.uu.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.neusoft.app.beijingdaily.phone.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.neusoft.iln.xml android.permission.BIND_INCALL_SERVICE, android.permission.BIND_SCREENING_SERVICE, com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.nfdaily.nfplus.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.nice.main.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.nineteenlou.nineteenlou.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.ninexiu.sixninexiu.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.nitroxenon.terrarium.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+360_com.nll.acr.xml android.permission.BIND_QUICK_SETTINGS_TILE
+360_com.nyato.client.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.oasisfeng.greenify.xml com.oasisfeng.nevo.permission.BIND_DECORATOR_SERVICE
+360_com.octinn.birthdayplus.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.oecommunity.oeshop.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.olimsoft.android.oplayer.xml android.permission.BIND_TV_INPUT, android.permission.BIND_QUICK_SETTINGS_TILE, android.permission.BIND_QUICK_SETTINGS_TILE
+360_com.opera.browser.beta.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE, com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+360_com.opera.mini.android.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+360_com.ophone.reader.ui.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.orion.xiaoya.speakerclient.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.oupeng.browser.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE, com.tencent.mm.plugin.permission.SEND, com.tencent.mm.plugin.permission.SEND
+360_com.oupeng.mini.android.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE, com.tencent.mm.plugin.permission.SEND, com.tencent.mm.plugin.permission.SEND
+360_com.oupeng.safedata.xml android.permission.BIND_VPN_SERVICE
+360_com.ourydc.yuebaobao.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE, com.heytap.mcs.permission.SEND_PUSH_MESSAGE, com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.p1.mobile.putong.xml android.permission.BIND_CHOOSER_TARGET_SERVICE, com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.pengtang.candy.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.phatware.writepadsip.xml android.permission.BIND_INPUT_METHOD
+360_com.pplive.androidpad.xml com.tencent.mm.plugin.permission.SEND
+360_com.pplive.androidphone.sport.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE, com.suning.yunxin.yxpushdemo.permission.PROCESS_PUSH_MSG
+360_com.pplive.androidphone.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE, com.tencent.mm.plugin.permission.SEND, com.suning.yunxin.yxpushdemo.permission.PROCESS_PUSH_MSG
+360_com.psd.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.qd.smreader.xml com.tencent.mm.plugin.permission.SEND
+360_com.qdnews.qd.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.qdtevc.teld.app.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.qidian.QDReader.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.qihoo.appstore.xml android.permission.BIND_INPUT_METHOD
+360_com.qihoo.browser.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.qihoo.camera.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.qihoo.freewifi.xml com.tencent.mm.plugin.permission.SEND
+360_com.qihoo.haosou.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.qihoo.video.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.qihoo360.ludashi.cooling.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.qihoo360.mobilesafe.xml android.permission.BIND_VPN_SERVICE
+360_com.qijia.o2o.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.qingqi.dianbo.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.qinhe.ispeak.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.qiyi.video.reader.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.qiyi.video.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.qq.ac.android.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.qq.reader.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.qts.customer.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.quanben.novel.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE, com.heytap.mcs.permission.SEND_PUSH_MESSAGE, com.tencent.mm.plugin.permission.SEND
+360_com.quark.browser.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE, android.permission.BIND_NFC_SERVICE, android.permission.BIND_NFC_SERVICE
+360_com.quicklyask.activity.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.qunhe.designer.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.qunhe.rendershow.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.qusong.aipai.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+360_com.redstar.mainapp.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.redwolfama.peonylespark.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.renrenche.carapp.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE, com.tencent.mm.plugin.permission.SEND
+360_com.renxing.jimo.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.renxing.xys.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.riceman.secretgarden.xml com.amazon.inapp.purchasing.Permission.NOTIFY
+360_com.roogooapp.im.xml com.tencent.mm.plugin.permission.SEND
+360_com.rt.market.fresh.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.ruanmei.ithome.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.rubao.soulsoother.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.ruguoapp.jike.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE, com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.samsung.android.app.sreminder.xml com.samsung.android.bixby.agent.permission.APP_SERVICE
+360_com.sandisk.mz.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+360_com.sankuai.meituan.dispatch.homebrew.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.sankuai.meituan.takeoutnew.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE, android.permission.BIND_NFC_SERVICE
+360_com.sankuai.movie.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.sanlian.zhongdu.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.scoompa.collagemaker.video.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+360_com.scoompa.collagemaker.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+360_com.scriptelf.xml android.permission.BIND_INPUT_METHOD
+360_com.sdiread.kt.ktandroid.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.sec.android.app.sbrowser.beta.xml com.sec.factory.permission.KEYSTRING, com.sec.spp.permission.SEND
+360_com.sec.android.easyMover.xml com.samsung.android.bixby.agent.permission.APP_SERVICE, com.sec.android.app.SecSetupWizard.permission.SHOW_SETUP_WIZARD
+360_com.sec.app.samsungprintservice.xml android.permission.BIND_PRINT_SERVICE, android.permission.START_PRINT_SERVICE_CONFIG_ACTIVITY, android.permission.START_PRINT_SERVICE_CONFIG_ACTIVITY, android.permission.START_PRINT_SERVICE_CONFIG_ACTIVITY
+360_com.seetong.app.seetong.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.sencent.mm.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE, com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.sensopia.magicplan.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+360_com.sesame.video.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.sevenplus.chinascience.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.sf.activity.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE, com.tencent.mm.plugin.permission.SEND
+360_com.sfacg.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.sfexpress.merchant.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.shejiao.boluojie.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.shenyuan.militarynews.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.shineyue.sjgjj.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.shixiseng.activity.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.shuqi.controller.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.shyl.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.shyz.toutiao.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.sichuan.iwant.xml android.permission.BIND_VPN_SERVICE
+360_com.sina.news.lite.xml com.sina.news.permission.SINA_PUSH, com.sina.news.permission.SINA_PUSH
+360_com.sina.news.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE, com.huawei.hicar.HICAR_PERMISSION_SYSTEM
+360_com.sina.weibo.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.sina.weibog3.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.sina.weibolite.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.single.baodian.xml com.tencent.mm.oauth.permission.SEND, com.tencent.mm.plugin.permission.SEND
+360_com.singlecountry.dscun.beta.xml com.tencent.mm.plugin.permission.SEND
+360_com.sinovatech.unicom.ui.xml android.permission.BIND_VPN_SERVICE
+360_com.sinyee.babybus.video.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.sistalk.misio.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.sixrpg.opalyer.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.sjku.qq.xml com.ssgdud.android.c2dm.permission.SEND
+360_com.sjst.xgfe.android.kmall.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.skyplatanus.crucio.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE, com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.slkj.paotui.customer.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.slkj.paotui.worker.xml android.permission.BIND_NFC_SERVICE, com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.smartisan.reader.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.snda.wifilocating.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.sobey.cloud.view.jiangxi.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE, com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.sofang.net.buz.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE, com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.softkey.android.shoupin.xml android.permission.BIND_INPUT_METHOD
+360_com.sogou.novel.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE, com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE, com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.sogou.reader.free.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE, com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.sohu.auto.helper.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.sohu.auto.sohuauto.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.sohu.infonews.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.sohu.newsclient.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE, com.tencent.mm.plugin.permission.SEND, com.sohu.newsclient.permission.PROCESS_PUSH_MSG
+360_com.sohu.sohuhy.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.sohu.sohuvideo.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.sohu.tv.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.sony.playmemories.mobile.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+360_com.souche.apps.destiny.xml com.tencent.mm.plugin.permission.SEND
+360_com.soufun.app.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE, com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.soufun.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.ss.android.article.lite.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.ss.android.article.news.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.ss.android.article.video.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.ss.android.auto.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.ss.android.ugc.aweme.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.ss.android.ugc.live.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.ssports.mobile.video.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+360_com.ssxg.cheers.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.stcn.newmedia.activity.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.storm.chasekoreantv.xml com.tencent.mm.plugin.permission.SEND
+360_com.storm.chaseustv.xml com.tencent.mm.plugin.permission.SEND
+360_com.subao.husubao.xml android.permission.BIND_VPN_SERVICE
+360_com.suma.bijie.xml android.permission.BIND_NFC_SERVICE
+360_com.suma.gztong.xml android.permission.BIND_NFC_SERVICE
+360_com.sumavision.sanping.gudou.xml android.permission.BIND_VPN_SERVICE
+360_com.sumavision.sanping.hubei.xml android.net.wifi.STATE_CHANGE
+360_com.sumavision.sanping.shandong.xml android.net.wifi.STATE_CHANGE
+360_com.sunboxsoft.charge.institute.xml android.permission.BIND_NFC_SERVICE, com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.sunboxsoft.oilforgdandroid.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.sunrise.scmbhc.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.sup.android.superb.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.supercleaner.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+360_com.szy100.szyapp.xml com.tencent.mm.plugin.permission.SEND
+360_com.tabtale.snowwhite.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+360_com.taidu8.yunding.xml android.permission.BIND_VPN_SERVICE
+360_com.taihai.app2.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.talicai.talicaiclient.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.taobao.idlefish.xml android.permission.BIND_NFC_SERVICE, com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.taobao.live4anchor.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE, android.permission.BIND_NFC_SERVICE
+360_com.taobao.mobile.dipei.xml android.permission.BIND_NFC_SERVICE, android.permission.BIND_NFC_SERVICE, com.eg.android.AlipayGphone.MerchantPermission
+360_com.taobao.movie.android.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE, android.permission.BIND_NFC_SERVICE, android.permission.BIND_NFC_SERVICE
+360_com.techwolf.kanzhun.app.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.telecom.video.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE, com.tencent.mm.plugin.permission.SEND, im.yixin.sdk.permission.YIXIN_SDK_MESSAGE, com.tencent.mm.plugin.permission.SEND
+360_com.tencent.FileManager.xml com.tencent.mtt.broadcast
+360_com.tencent.gamehelper.pg.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.tencent.mm.xml android.permission.BIND_INPUT_METHOD, android.permission.BIND_NFC_SERVICE
+360_com.tencent.mtt.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE, android.permission.BIND_NFC_SERVICE
+360_com.tencent.nbagametime.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.tencent.news.xml com.huawei.hicar.HICAR_PERMISSION_SYSTEM, com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.tencent.nijigen.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.tencent.now.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE, com.tencent.mm.plugin.permission.SEND
+360_com.tencent.qgame.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.tencent.qqlive.xml android.permission.BIND_VPN_SERVICE, android.permission.BIND_NFC_SERVICE
+360_com.tencent.qqlivepad.xml android.permission.BIND_VPN_SERVICE
+360_com.tencent.qqpim.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE, com.tencent.mm.plugin.permission.SEND
+360_com.tencent.qqpimsecure.xml android.permission.BIND_VPN_SERVICE, android.permission.BIND_VPN_SERVICE, android.permission.BIND_VPN_SERVICE, com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.tencent.qqsports.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.tencent.reading.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.tencent.tgclub.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.tencent.tmgp.sixrooms.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.tencent.wifimanager.xml android.permission.BIND_VPN_SERVICE, android.permission.BIND_VPN_SERVICE, com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.Tiange.ChatRoom.xml com.tencent.mm.plugin.permission.SEND
+360_com.tiange.grape.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE, com.tencent.mm.plugin.permission.SEND
+360_com.tiange.miaolive.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE, com.tencent.mm.plugin.permission.SEND
+360_com.tiange.multiwater.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE, com.tencent.mm.plugin.permission.SEND
+360_com.tiange.waist.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE, com.tencent.mm.plugin.permission.SEND
+360_com.timeweekly.timefinance.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.tmri.app.main.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.tongqijie.ares.xml android.permission.BIND_INPUT_METHOD
+360_com.tps.tpslivevideo.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.truckhome.bbs.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.tudou.android.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE, android.permission.BIND_NFC_SERVICE, android.permission.BIND_NFC_SERVICE, com.youku.permission.Boot_Finished
+360_com.tuhao.kuaishou.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.tuhao.laosiji.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.tuhao.lulu.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.tuhaoba.ttzb.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.tuoluocaijing.xml com.tencent.mm.plugin.permission.SEND
+360_com.tutk.shamolang.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.tuya.smart.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.twentyfirstcbh.epaper.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.u17.comic.phone.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.UCMobile.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE, android.permission.BIND_NFC_SERVICE, android.permission.BIND_NFC_SERVICE
+360_com.umaman.laiyifen.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.uneed.yuni.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.unnoo.quan.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.uroad.carclub.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.ushaqi.zhuishushenqi.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.uxin.live.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.uxin.usedcar.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE, com.tencent.mm.plugin.permission.SEND
+360_com.v1.video.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE, com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.v1.vr.xml com.tencent.mm.plugin.permission.SEND
+360_com.vehicle.inspection.xml Channel
+360_com.viptail.xiaogouzaijia.xml com.viptail.xiaogouzaijia.permission.PROCESS_PUSH_MSG
+360_com.visionobjects.stylusmobile.v3.xml android.permission.BIND_INPUT_METHOD
+360_com.vistastory.news.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.vliao.vchat.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.wacompany.mydol.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+360_com.wakdev.nfctools.pro.xml android.permission.BIND_NFC_SERVICE
+360_com.wallstreetcn.news.xml com.huawei.hicar.HICAR_PERMISSION_SYSTEM
+360_com.wanba.jubensha.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.wanda.app.wanhui.xml android.permission.BIND_NFC_SERVICE, com.tencent.mm.oauth.permission.SEND, com.tencent.mm.plugin.permission.SEND
+360_com.wandafilm.app.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.wandoujia.eyepetizer.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.wandoujia.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.waqu.android.firebull.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.wawj.app.t.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.wbxm.icartoon.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.weface.kksocialsecurity.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE, com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.weico.international.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.weimi.mzg.ws.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.welove520.qqsweet.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.welove520.welove.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.wenhua.bamboo.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.wepie.weplay.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.wifi.key.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.wifi.reader.free.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.wifi.reader.girl.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.wifi.reader.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.wiwj.xiangyucustomer.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.wj.wjbbs.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.wodan.xianshijian.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE, com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.wodi.who.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.wodi.xiaopk.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.wodidashi.laiwanba.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.wodidashi.paint.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.wodidashi.spy.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.wodidashi.wolf.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.wondertek.ahPalm10000.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.wondertek.miguaikan.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE, com.miui.securitycenter.permission.AppPermissionsEditor, com.cmri.universalapp.permission.ACCESS, com.cmri.universalapp.permission.ACCESS, com.cmri.universalapp.permission.ACCESS, com.cmri.universalapp.permission.ACCESS, com.cmri.universalapp.permission.ACCESS, com.cmri.universalapp.permission.ACCESS
+360_com.wondertek.paper.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.woshipm.news.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.wshifu.app.jiedanyi.xml android.permission.BIND_NFC_SERVICE
+360_com.wta.NewCloudApp.toutiao.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.wtyt.yzone.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.wuba.bangjob.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.wuba.huoyun.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.wuba.jiazheng.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.wuba.town.client.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.wuba.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.www.ccoocity.ui.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.xdtech.news.greatriver.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.xhl.cq.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.xhl.fengjie.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.xiachufang.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.xiandanjia.android.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE, com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.xiangha.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.xiangliyun.youxiu.xgyybfq.xml \ 2147483647
+360_com.xiaochang.easylive.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE, com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.xiaoenai.app.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE, com.heytap.mcs.permission.SEND_PUSH_MESSAGE, android.permission.BIND_NFC_SERVICE
+360_com.xiaolajiao.appstore.xml com.tencent.mm.plugin.permission.SEND
+360_com.xiaomi.smarthome.xml android.permission.BIND_PRINT_SERVICE, android.permission.BIND_CONTROLS, com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.ximalaya.ting.android.xml com.huawei.hicar.HICAR_PERMISSION_SYSTEM, android.permission.BIND_VPN_SERVICE, com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.xingguang.mmzb.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.xingguang.tianjiao.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.xingin.xhs.xml android.permission.BIND_NFC_SERVICE
+360_com.xinshuru.inputmethod.xml android.permission.BIND_INPUT_METHOD
+360_com.xinxiu.AvatarMaker.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+360_com.xm.bottle.xml com.tencent.qcloud.tim.tuikit.permission.PROCESS_PUSH_MSG
+360_com.xmtj.mkz.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.xunai.sleep.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.xunlei.downloadprovider.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.xwtec.sd.mobileclient.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.xxsyread.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.xybsyw.user.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.xyhui.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.yaya.zone.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.ycsd.xml com.tencent.mm.plugin.permission.SEND
+360_com.ycwb.android.ycpai.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.yeqiao.qichetong.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.yiban1314.yiban.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.yiche.autoeasy.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.yinshenxia.xml com.yinshenxia.permission.START_SUCUN_SERVICE
+360_com.yitantech.gaigai.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.yixiang.asshole.xml com.tencent.mm.plugin.permission.SEND
+360_com.yiyou.ga.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.yizhikan.app.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.yj.kankanzhuan.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE, com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.ymnet.cleanmanager.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.ymnet.lajiclean.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.ymnet.mobilesafe.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.ymnet.onekeyclean.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.yokong.reader.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE, com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.yongyou.youpu.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.yongzin.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.yoosee.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.youku.crazytogether.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.youku.phone.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE, android.permission.BIND_NFC_SERVICE, android.permission.BIND_NFC_SERVICE, com.youku.phone.permission.PROCESS_PUSH_MSG, com.youku.phone.permission.PROCESS_PUSH_MSG, com.youku.permission.Boot_Finished
+360_com.youshixiu.gameshow.rec.xml com.tencent.mm.plugin.permission.SEND
+360_com.youshixiu.gameshow.xml com.tencent.mm.plugin.permission.SEND
+360_com.youshixiu.minecraft.xml com.tencent.mm.plugin.permission.SEND
+360_com.youth.weibang.xml com.tencent.mm.plugin.permission.SEND, android.provider.Telephony.SMS_RECEIVED
+360_com.youxibaoku.socialdj.xml android.provider.Telephony.SMS_RECEIVED
+360_com.ysdqbfq.taaz.xml \ 2147483647
+360_com.yuanye.rentfriends.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.yuedan.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.yuekuapp.video.xml com.tencent.mm.plugin.permission.SEND
+360_com.yueme.itv.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.yuetun.jianduixiang.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.yueyou.adreader.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.yumc.phsuperapp.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.yunchuang.huahuoread.xml 100
+360_com.yuntu.taipinghuihui.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.yunva.changke.xml android.permission.BIND_VPN_SERVICE
+360_com.yunzhi.yangfan.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.yupaopao.yuer.xml com.heytap.mcs.permission.SEND_PUSH_MESSAGE
+360_com.yxd.live.xml com.miui.securitycenter.permission.AppPermissionsEditor
+360_com.yyhd.happywolf.xml com.tencent.mm.plugin.permission.SEND
+360_com.yyk.whenchat.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.yymedias.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.yyw.fastbrowser.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE, com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+360_com.zaiart.yi.xml com.tencent.mm.plugin.permission.SEND
+360_com.zcool.community.xml com.tencent.mm.plugin.permission.SEND
+360_com.zenmen.palmchat.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.zhangyue.iReader.xml com.tencent.mm.plugin.permission.SEND
+360_com.zhaopin.highpin.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.zhenai.android.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.zhongduomei.rrmj.society.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.zhy.qianyan.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.ziipin.softkeyboard.kazakh.xml android.permission.BIND_INPUT_METHOD
+360_com.ziipin.softkeyboard.xml android.permission.BIND_INPUT_METHOD
+360_com.ziqun.story.xml com.tencent.mm.plugin.permission.SEND
+360_com.zishuovideo.zishuo.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.zjapp.xml com.zjapp.share, com.zjapp.share, com.zjapp.share
+360_com.zjseek.dancing.xml com.tencent.mm.plugin.permission.SEND
+360_com.zr8169.live.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.ztgame.bigbang.app.hey.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.zucp.anrioid1.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_com.zxd.moxiu.live.xml com.tencent.mm.plugin.permission.SEND
+360_de.bmw.connected.cn.xml android.permission.BIND_NFC_SERVICE, android.permission.BIND_NFC_SERVICE
+360_dopool.player.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_flipboard.cn.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_hr.podlanica.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+360_imoblife.androidsensorbox.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+360_info.sa7563d8.d5ea89b.xml android.permission.BIND_INPUT_METHOD
+360_intelligent.voice.handwritten.ime.xml android.permission.BIND_INPUT_METHOD
+360_io.dcloud.scimalla.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_io.dushu.fandengreader.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_jp.ne.neko.freewing.PinYinIme.xml android.permission.BIND_INPUT_METHOD
+360_kl.ime.oh.xml android.permission.BIND_INPUT_METHOD
+360_kr.co.and.iq55m.xml android.permission.BIND_INPUT_METHOD
+360_kr.co.vcnc.android.couple.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+360_me.ele.napos.xml android.permission.BIND_NFC_SERVICE
+360_me.ele.xml android.permission.BIND_NFC_SERVICE, com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_me.yidui.xml com.tencent.mm.plugin.permission.SEND
+360_mobi.htjsq.accelerator.xml android.permission.BIND_VPN_SERVICE
+360_mobi.jackd.android.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+360_net.a1645f.y6269ee4.xml android.permission.BIND_INPUT_METHOD
+360_net.aisence.Touchelper.xml android.permission.BIND_INPUT_METHOD
+360_net.bontec.wxqd.activity.xml com.miui.securitycenter.permission.AppPermissionsEditor
+360_net.cdeguet.smartkeyboardpro.xml android.permission.BIND_INPUT_METHOD
+360_net.dinglisch.android.taskerm.xml android.permission.BIND_VPN_SERVICE, android.permission.BIND_INPUT_METHOD, android.permission.BIND_CONTROLS
+360_net.duohuo.magapp.taiwuliao.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_net.h702fe0.s12trb39.xml android.permission.BIND_INPUT_METHOD
+360_net.hciilab.android.cappuccino.xml android.permission.BIND_INPUT_METHOD
+360_net.xinhuamm.mainclient.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_net.za57f6f8.raf0d8cyt.xml android.permission.BIND_INPUT_METHOD
+360_org.alw.myyh.xml com.tencent.mm.plugin.permission.SEND
+360_org.alw.yhnn.xml com.tencent.mm.plugin.permission.SEND
+360_org.c2h4.afei.beauty.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_org.d7dc3d.h6a9ee84.xml android.permission.BIND_INPUT_METHOD
+360_org.fungo.fungolive.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_org.fungo.fungoliveallstar.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_org.pocketworkstation.pckeyboard.xml android.permission.BIND_INPUT_METHOD
+360_qsbk.app.xml com.tencent.mm.plugin.permission.SEND
+360_qvod.com.sjkpsq.qvod.xml \ 2147483647
+360_rocket.vehiclemgr.android.obd2.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_tech.caicheng.judourili.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+360_tv.yixia.bobo.xml tv.yixia.bobo.fundation.communication.AIDL_SERVICE
+360_tw.chaozhuyin.xml android.permission.BIND_INPUT_METHOD
+360_Uxpp.UC.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+360_xiyuan.hoping.org.xiyuan.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+ae.gov.dha.covid19.xml com.google.android.gms.auth.api.phone.permission.SEND
+air.educaplanet.grin.leo1.full.xml com.amazon.inapp.purchasing.Permission.NOTIFY
+and.legendnovel.app.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+AndroidManifest.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+app.WTInfoTech.WorldAroundMeLite.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+arab.dating.app.ahlam.net.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+at.is24.android.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+au.com.aussiecommerce.luxuryescapes.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+Baidu_app.ehafo.xml com.miui.securitycenter.permission.AppPermissionsEditor
+Baidu_cc.forestapp.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+Baidu_cmb.pb.xml android.permission.BIND_NFC_SERVICE, com.heytap.mcs.permission.SEND_MCS_MESSAGE, cmb.pb.permission.APP_AIDL_SERVER
+Baidu_cmccwm.mobilemusic.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE, com.huawei.hicar.HICAR_PERMISSION_SYSTEM
+Baidu_cn.audi.onetouch.xml android.permission.BIND_NFC_SERVICE
+Baidu_cn.banshenggua.aichang.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_cn.bluecrane.album.xml com.tencent.mm.plugin.permission.SEND
+Baidu_cn.bluecrane.private_album.xml com.tencent.mm.plugin.permission.SEND
+Baidu_cn.cj.pe.xml cn.cj.pe, cn.cj.pe
+Baidu_cn.colorv.xml android.permission.BIND_NFC_SERVICE
+Baidu_cn.com.cmbc.newmbank.xml android.permission.BIND_NFC_SERVICE
+Baidu_cn.com.langeasy.LangEasyLexis.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_cn.com.shbank.mper.xml android.permission.BIND_NFC_SERVICE
+Baidu_cn.emoney.emstock.xml cn.emoney.emstock.permission.APP_AIDL_SERVER, com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_cn.everphoto.lite.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_cn.ibuka.manga.ui.xml com.tencent.mm.plugin.permission.SEND
+Baidu_cn.jiayuetech.smqnwcs.xml android.permission.BIND_NFC_SERVICE
+Baidu_cn.mc.mcxt.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_cn.missevan.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE, TODO
+Baidu_cn.mucang.xiaomi.android.wz.xml cn.mucang.android.weizhang.SDK_RECEIVER
+Baidu_cn.nineton.recordpro.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_cn.nova.phone.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_cn.poco.jane.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_cn.soulapp.android.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_cn.ticktick.task.xml com.google.android.apps.dashclock.permission.READ_EXTENSION_DATA
+Baidu_cn.wangxiao.zhuntiku.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_cn.wsds.gamemaster.xml android.permission.BIND_VPN_SERVICE
+Baidu_cn.xiaochuankeji.tieba.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE, android.permission.BIND_NFC_SERVICE, com.tencent.mm.plugin.permission.SEND
+Baidu_cn.xiaoniangao.xngapp.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_cn.xuexi.android.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_cn.yanma.tanyan.xml android.permission.BIND_NFC_SERVICE
+Baidu_co.runner.app.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.A17zuoye.mobile.homework.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.achievo.vipshop.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE, com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.adfilterpro.xml android.permission.BIND_VPN_SERVICE
+Baidu_com.adsafepro.xml android.permission.BIND_VPN_SERVICE, android.permission.BIND_VPN_SERVICE
+Baidu_com.aichang.yage.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.alibaba.ailabs.tg.xml android.permission.BIND_NFC_SERVICE, com.alibaba.ailabs.tg.permission.NOTIFY_WIDGET
+Baidu_com.alibaba.aliyun.xml android.permission.BIND_NFC_SERVICE, com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.alibaba.android.rimet.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.alibaba.wireless.xml android.permission.BIND_NFC_SERVICE
+Baidu_com.alimama.moon.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.android.manyi.tms.driver.xml com.miui.securitycenter.permission.AppPermissionsEditor
+Baidu_com.anjuke.android.newbroker.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.antutu.ABenchMark.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.apowersoft.mirror.xml android.permission.BIND_INPUT_METHOD
+Baidu_com.app2016.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.asiainfo.android.xml android.permission.BIND_VPN_SERVICE, com.asiainfo.android.permission.REMOTE_CONTROL
+Baidu_com.atour.atourlife.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.autonavi.cmccmap.xml com.heqinuc.test.push.permission.PROCESS_PUSH_MSG
+Baidu_com.azure.authenticator.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+Baidu_com.baidu.aipurchase.buyer.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.baidu.BaiduMap.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.baidu.carlife.xml com.vivo.car.networking.CAR_PERMISSION, android.permission.INTERNET|             android.permission.ACCESS_WIFI_STATE|             android.permission.ACCESS_NETWORK_STATE|             android.permission.READ_PHONE_STATE
+Baidu_com.baidu.crm.app.aipurchase.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.baidu.dict.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.baidu.duer.superapp.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.baidu.fengchao.ui.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.baidu.haokan.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.baidu.homework.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE, com.baidu.homework.permission.PROCESS_PUSH_MSG
+Baidu_com.baidu.input.xml android.permission.BIND_INPUT_METHOD
+Baidu_com.baidu.minivideo.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.baidu.netdisk.xml com.tencent.mm.plugin.permission.SEND
+Baidu_com.baidu.searchbox.lite.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE, com.plugin.coloros.mcs.permission.SEND_MCS_MESSAGE, com.plugin.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.baidu.searchbox.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.baidu.tieba.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.baidu.wenku.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.baidu.xin.aiqicha.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.bailu.lailegaodriver.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.banciyuan.bcywebview.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.bankcomm.Bankcomm.xml android.permission.BIND_NFC_SERVICE, com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.bankcomm.maidanba.xml android.permission.BIND_NFC_SERVICE, com.heytap.mcs.permission.SEND_MCS_MESSAGE, com.tencent.mm.plugin.permission.SEND
+Baidu_com.bankofbeijing.mobilebanking.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.biku.design.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.black.unique.xml android.permission.BIND_NFC_SERVICE, android.permission.BIND_NFC_SERVICE
+Baidu_com.bmcc.ms.ui.xml com.tencent.mm.plugin.permission.SEND
+Baidu_com.bose.monet.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+Baidu_com.boss7.project.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.bytedance.ad.videotool.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.bz9188u.wenzi.xml com.miui.securitycenter.permission.AppPermissionsEditor
+Baidu_com.cainiao.wireless.xml android.permission.BIND_NFC_SERVICE, android.permission.BIND_NFC_SERVICE
+Baidu_com.cdbwsoft.weimiquan.xml com.tencent.mm.plugin.permission.SEND
+Baidu_com.cdv.video360.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.cdwx.moka.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.cebbank.mobile.cemb.xml android.permission.BIND_NFC_SERVICE
+Baidu_com.cecurs.dazhou.xml android.permission.BIND_NFC_SERVICE
+Baidu_com.cgbchina.xpt.xml android.permission.BIND_NFC_SERVICE
+Baidu_com.chaoxing.mobile.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.chaozh.iReaderFree.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE, com.tencent.mm.plugin.permission.SEND
+Baidu_com.cheetah.cmcooler.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.china3s.android.xml com.china3s.android.permission.PROCESS_PUSH_MSG
+Baidu_com.chinatelecom.bestpayclient.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+Baidu_com.cib.cibmb.xml android.permission.BIND_NFC_SERVICE
+Baidu_com.cib.xyk.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.citiccard.mobilebank.xml android.permission.BIND_NFC_SERVICE
+Baidu_com.cleanmaster.mguard_cn.xml android.permission.BIND_VPN_SERVICE, com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.cmbchina.ccd.pluto.cmbActivity.xml android.permission.BIND_NFC_SERVICE, android.permission.BIND_NFC_SERVICE
+Baidu_com.cmcc.cmvideo.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.cn21.corp.cloud.xml com.tencent.mm.plugin.permission.SEND
+Baidu_com.cn21.ecloud.xml com.tencent.mm.plugin.permission.SEND
+Baidu_com.cqttech.browser.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE, com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE, com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+Baidu_com.crgt.ilife.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.csair.mbp.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE, com.csair.mbp.notification.MyJPushMessageReceiver
+Baidu_com.csii.hrxj.xml android.permission.BIND_NFC_SERVICE, android.permission.BIND_NFC_SERVICE
+Baidu_com.cxyw.suyun.ui.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.czbank.mbank.xml android.permission.BIND_NFC_SERVICE
+Baidu_com.dangdang.buy2.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE, com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+Baidu_com.dbscgeneral.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.dddzs.driver.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.dianyun.pcgo.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.didago.dida.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.didazb.tv.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.dmool.anime.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.dotools.clock.xml \ 2147483647
+Baidu_com.douban.frodo.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.doupin.show.xml com.ddmh.pushsdk.permission.PROCESS_PUSH_MSG
+Baidu_com.dou_pai.DouPai.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.drcom.DuoDian.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+Baidu_com.duitang.main.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.duoduo.child.story.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.duoduo.opera.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.eaglesight.carsharing.taxi.driver.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.eastmoney.android.berlin.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.eastmoney.android.newyork.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.easymin.daijia.gddriver.halouV6.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.ebank.creditcard.xml android.permission.BIND_NFC_SERVICE
+Baidu_com.echat.qingning.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.ecommerce.xmnair.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.edu.android.daliketang.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.edujia.ime.xml android.permission.BIND_INPUT_METHOD
+Baidu_com.eg.android.AlipayGphone.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE, android.permission.BIND_NFC_SERVICE, android.permission.BIND_NFC_SERVICE, android.permission.BIND_NFC_SERVICE, com.eg.android.AlipayGphone.MerchantPermission
+Baidu_com.enniu.xiaolanben.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.erteryrtyy.qeretert.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+Baidu_com.eusoft.eudic.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.eventmosh.changlong.xml com.tencent.mm.plugin.permission.SEND
+Baidu_com.example.admin.tenantframework.xml com.miui.securitycenter.permission.AppPermissionsEditor
+Baidu_com.example.artilleryandroid.xml com.tencent.mm.plugin.permission.SEND
+Baidu_com.example.examda.xml com.tencent.mm.plugin.permission.SEND
+Baidu_com.example.gamevoice.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.example.wygxw.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.excean.multiaid.xml com.tencent.mm.plugin.permission.SEND
+Baidu_com.excelliance.dualaid.xml com.tencent.mm.plugin.permission.SEND
+Baidu_com.eye.micro.updatewebview.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.eykid.android.ey.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.ezuchuxing.driver.GD.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.f100.android.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.facishare.fs.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE, com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE, com.tencent.mm.plugin.permission.SEND
+Baidu_com.fantuankanshujbk.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.fantuantanshujbk.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.fcx.jy.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.fdsure.easyfund.xml com.miui.securitycenter.permission.AppPermissionsEditor
+Baidu_com.fengnan.newzdzf.xml android.permission.BIND_INPUT_METHOD
+Baidu_com.fenzotech.jimu.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.fghrtrd.ghfd.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+Baidu_com.fiistudio.fiinote.xml android.permission.BIND_INPUT_METHOD
+Baidu_com.fitbit.FitbitMobile.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+Baidu_com.fooview.android.fooview.xml android.permission.BIND_INPUT_METHOD
+Baidu_com.foundersc.app.xf.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.fqapps.fdsh.xml android.permission.BIND_NFC_SERVICE
+Baidu_com.free_ride.yiwei.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.free_ride_pin.yiwei.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.funqingli.clear.xml com.tencent.mm.plugin.permission.SEND
+Baidu_com.fusionmedia.investingCN.xml com.amazon.device.messaging.permission.SEND
+Baidu_com.fvcorp.android.aijiasuclient.xml android.permission.BIND_VPN_SERVICE
+Baidu_com.ganji.android.haoche_c.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.gaodemaitian.driver.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.generalcomp.lianshijie.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+Baidu_com.gensuite.onthego.xml com.amazon.device.messaging.permission.SEND
+Baidu_com.gf.client.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.gopro.smarty.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+Baidu_com.gorgeous.lite.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.greentree.android.xml com.tencent.mm.plugin.permission.SEND
+Baidu_com.guosen.android.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.haixue.app.android.HaixueAcademy.h4.xml android.permission.BIND_NFC_SERVICE
+Baidu_com.hdib.ngsrn.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.hecom.mgm.xml 1000
+Baidu_com.hellogeek.fycleanking.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.hexin.plat.android.ZhongyuanSecurity.xml com.tencent.mm.plugin.permission.SEND
+Baidu_com.hgj.truckposition.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.hikcreate.elecdrivlic.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.hjwordgames.xml com.tencent.mm.plugin.permission.SEND
+Baidu_com.hongxia.location.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.Hotel.EBooking.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE, ctrip.android.view.permission.third
+Baidu_com.hrx.yijiu.xml com.tencent.mm.plugin.permission.SEND
+Baidu_com.htinns.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.huaqian.xml com.tencent.mm.plugin.permission.SEND
+Baidu_com.huawei.welink.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.huaxiaozhu.driver.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.huayun.cloud_alliance.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE, com.tencent.mm.plugin.permission.SEND
+Baidu_com.hujiang.dict.xml com.tencent.mm.plugin.permission.SEND
+Baidu_com.huke.hk.xml com.tencent.mm.plugin.permission.SEND
+Baidu_com.hundsun.mobile.hsbrowsertest.xml android.permission.BIND_NFC_SERVICE
+Baidu_com.hundsun.qy.hospitalcloud.bj.xhhosp.hsyy.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.hunting.matrix_callershow.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.huochat.im.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.icbc.im.xml com.tencent.mm.plugin.permission.SEND
+Baidu_com.icbc.xml android.permission.BIND_NFC_SERVICE, android.permission.BIND_NFC_SERVICE
+Baidu_com.ichinait.gbdriver.xml {PROVIDER_APPLICATION_ID}.permission.PROCESS_PUSH_MSG
+Baidu_com.iflytek.inputmethods.DungkarIME.xml android.permission.BIND_INPUT_METHOD
+Baidu_com.iflytek.recinbox.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.imibaby.client.xml com.tencent.mm.plugin.permission.SEND
+Baidu_com.immomo.momo.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.immomo.vchat.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.immomo.young.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.intsig.camscanner.xml com.intsig.camscanner.push.receiver
+Baidu_com.ionicframework.cgbank122507.xml android.permission.BIND_NFC_SERVICE
+Baidu_com.iqiyi.acg.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.iqiyi.mall.fanfan.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.ishowedu.child.peiyin.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.ishowedu.peiyin.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE, com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.iss.changanbank.xml android.permission.BIND_NFC_SERVICE
+Baidu_com.iss.dezhoubank.xml android.permission.BIND_NFC_SERVICE
+Baidu_com.iss.qilubank.xml android.permission.BIND_NFC_SERVICE
+Baidu_com.iss.rizhaobank.xml android.permission.BIND_NFC_SERVICE
+Baidu_com.iwanyue.cleanmaster.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+Baidu_com.iyuba.CSvoa.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE, com.huawei.hmsagentsamplexsj.permission.PROCESS_PUSH_MSG
+Baidu_com.iyuba.TEDVideo.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE, com.huawei.hmsagentsamplexsj.permission.PROCESS_PUSH_MSG
+Baidu_com.iy_cd.crm.xml com.miui.securitycenter.permission.AppPermissionsEditor
+Baidu_com.jd.jrapp.xml android.permission.BIND_NFC_SERVICE
+Baidu_com.jeeinc.save.worry.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.jiangnanxdt.driver.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.jianzhiku.zhongrenbang.xml com.miui.securitycenter.permission.AppPermissionsEditor
+Baidu_com.jingdong.app.mall.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE, android.permission.BIND_NFC_SERVICE, android.permission.BIND_NFC_SERVICE
+Baidu_com.jingdong.pdj.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.jjkj.mojian.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.joyshebao.joy.xml com.miui.securitycenter.permission.AppPermissionsEditor
+Baidu_com.julanling.app.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.jumstc.driver.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.kada.camera.android.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE, com.tencent.mm.plugin.permission.SEND
+Baidu_com.kaola.xml android.permission.BIND_NFC_SERVICE, com.heytap.mcs.permission.SEND_MCS_MESSAGE, com.tencent.mm.plugin.permission.SEND
+Baidu_com.kdweibo.client.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE, com.tencent.mm.plugin.permission.SEND
+Baidu_com.kingdee.jdy.xml com.tencent.mm.plugin.permission.SEND
+Baidu_com.kingpoint.gmcchh.xml android.permission.BIND_VPN_SERVICE, com.heytap.mcs.permission.SEND_MCS_MESSAGE, cmccg5.permission.activity
+Baidu_com.klbd.kongyou.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.kmvideo.lchat.sns33.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.kugou.android.douge.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE, com.tencent.mm.plugin.permission.SEND
+Baidu_com.kugou.android.elder.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE, com.tencent.mm.plugin.permission.SEND
+Baidu_com.kugou.android.ktvapp.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE, com.tencent.mm.plugin.permission.SEND
+Baidu_com.kugou.android.lite.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE, com.heytap.mcs.permission.SEND_MCS_MESSAGE, com.tencent.mm.plugin.permission.SEND
+Baidu_com.kugou.android.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE, com.huawei.hicar.HICAR_PERMISSION_SYSTEM, com.tencent.mm.plugin.permission.SEND
+Baidu_com.kugou.fanxing.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.kugou.shiqutouch.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.kugou.viper.xml com.tencent.mm.plugin.permission.SEND
+Baidu_com.kwai.thanos.xml android.permission.BIND_VPN_SERVICE
+Baidu_com.lanhu.qiaoyu.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.le123.ysdq.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.lemon.faceu.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.lemon.lv.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.lenovo.leos.cloud.sync.xml android.permission.CONFIRM_FULL_BACKUP
+Baidu_com.letv.android.client.xml com.stv.stvpush.permission.SEND_PUSH, com.stv.stvpush.permission.SEND_PUSH
+Baidu_com.lianaibiji.dev.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.lingan.seeyou.xml android.permission.BIND_NFC_SERVICE
+Baidu_com.lite.lanxin.xml android.permission.BIND_VPN_SERVICE, com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.lixiangdong.idphotomaker.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+Baidu_com.lolaage.tbulu.tools.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.lu.ashionweather.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.ludashi.benchmark.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.m1905.mobilefree.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.m4399.youpai.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.max.maxaccelerator.xml android.permission.BIND_VPN_SERVICE
+Baidu_com.medibang.android.paint.tablet.xml com.amazon.inapp.purchasing.Permission.NOTIFY
+Baidu_com.meelive.ingkee.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE, com.tencent.mm.plugin.permission.SEND
+Baidu_com.meitu.meipaimv.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE, com.meitu.remote.hotfix.permission.DEBUGGING
+Baidu_com.meitu.meiyancamera.xml com.meitu.remote.hotfix.permission.DEBUGGING, com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.mg.phonecall.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.mgyun.shua.su.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+Baidu_com.mia.miababy.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.microsoft.teams.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE, com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+Baidu_com.midainc.wifibest.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.midainc.wxpass.wxmmpjq.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.moji.mjweather.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.moonshow.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.mosheng.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE, com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.ms.ailiao.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE, com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.mszmapp.detective.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.mt.mtxx.mtxx.xml com.meitu.remote.hotfix.permission.DEBUGGING, com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.mubu.app.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.mygolbs.mybus.xml android.permission.BIND_NFC_SERVICE
+Baidu_com.nbbank.xml android.permission.BIND_NFC_SERVICE
+Baidu_com.neptune.tmap.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.netease.uu.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.netease.yanxuan.xml com.tencent.mm.plugin.permission.SEND
+Baidu_com.newbornpower.iclear.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+Baidu_com.nextjoy.fanqie.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.ninexiu.sixninexiu.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.noodoe.sunray.cn.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+Baidu_com.nxy.gs.xml android.permission.BIND_NFC_SERVICE
+Baidu_com.nxy.hn.xml android.permission.BIND_NFC_SERVICE
+Baidu_com.nxy.mobilebank.shanxi.xml android.permission.BIND_NFC_SERVICE
+Baidu_com.octinn.birthdayplus.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.oupeng.mini.android.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE, com.tencent.mm.plugin.permission.SEND, com.tencent.mm.plugin.permission.SEND
+Baidu_com.p1.mobile.putong.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.pa.health.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.pingan.lifeinsurance.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.pingan.paces.ccms.xml android.permission.BIND_NFC_SERVICE
+Baidu_com.pintu.com.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.plateno.botaoota.xml com.tencent.mm.plugin.permission.SEND
+Baidu_com.poly.mobile.xml android.permission.BIND_NFC_SERVICE
+Baidu_com.pplive.androidphone.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE, com.tencent.mm.plugin.permission.SEND, com.suning.yunxin.yxpushdemo.permission.PROCESS_PUSH_MSG
+Baidu_com.pptiku.alltiku.xml com.tencent.mm.plugin.permission.SEND
+Baidu_com.pptiku.kaoshitiku.xml com.tencent.mm.plugin.permission.SEND
+Baidu_com.qb.qtranslator.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.qdccb.bank.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.qiqiggxi.pll.xml android.permission.BIND_VPN_SERVICE, android.permission.BIND_VPN_SERVICE, android.permission.BIND_VPN_SERVICE
+Baidu_com.qiyi.video.lite.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.qmnl.qmpd.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.quyue.android.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.qweqtagag.ewqrqrrttt.xml com.google.android.apps.muzei.api.ACCESS_PROVIDER
+Baidu_com.qyer.android.jinnang.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.qzvideo.sns22.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.renrendai.haohuan.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.rockets.chang.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.saicmobility.user.xml com.miui.securitycenter.permission.AppPermissionsEditor
+Baidu_com.sankuai.meituan.takeoutnew.xml android.permission.BIND_NFC_SERVICE
+Baidu_com.sanmiao.sound.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.seewo.easicare.pro.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.seewo.en.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.sf.activity.xml com.tencent.mm.plugin.permission.SEND
+Baidu_com.shangfang.gylm.xml android.permission.BIND_NFC_SERVICE
+Baidu_com.shenlu.guaisheng.xml android.permission.BIND_NFC_SERVICE
+Baidu_com.shineyue.sjgjj.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.shinyv.cnr.xml com.huawei.hicar.HICAR_PERMISSION_SYSTEM, com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.shoujiduoduo.dj.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.shoujiduoduo.ringtone.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.shoujiduoduo.videodesk.xml com.shoujiduoduo.wallpaper.permission.PLUGINMESSAGEHANDING
+Baidu_com.shoujiduoduo.wallpaper.xml com.shoujiduoduo.wallpaper.permission.PLUGINMESSAGEHANDING
+Baidu_com.shundaojia.travel.passenger.xml com.shundaojia.travel.driver.permission.PROCESS_PUSH_MSG
+Baidu_com.sina.mail.free.xml com.sina.mail.free.permission.SINA_PUSH
+Baidu_com.sina.oasis.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.sina.weibo.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.sinyee.babybus.polite.xml com.tencent.mm.plugin.permission.SEND
+Baidu_com.smzdm.client.android.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.snda.lantern.wifilocating.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.sogou.map.android.maps.xml com.huawei.hicar.HICAR_PERMISSION_SYSTEM
+Baidu_com.sogou.translator.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.sohu.sohuvideo.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.sohu.tv.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.somer.sq.puzzle.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.spdbccc.app.xml android.permission.BIND_NFC_SERVICE
+Baidu_com.srcb.pmbank.xml android.permission.BIND_NFC_SERVICE, android.permission.BIND_NFC_SERVICE
+Baidu_com.ss.android.lark.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.ss.android.merchant.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.ss.android.ugc.aweme.lite.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.suirui.zhumu.xml com.suirui.zhumu.permission.CHANGE_CONFIG, com.suirui.zhumu.permission.READ_CONFIG
+Baidu_com.suning.mobile.epa.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE, com.suning.mobile.epa.permission.APP_AIDL_SERVER
+Baidu_com.sunrise.scmbhc.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.sup.android.superb.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.superlib.xml com.tencent.mm.plugin.permission.SEND
+Baidu_com.sxdachun.entrepreneurial_world.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE, com.miui.securitycenter.permission.AppPermissionsEditor
+Baidu_com.sxm.yiwei.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.sxnxs.mbank.xml android.permission.BIND_NFC_SERVICE, com.tencent.mm.plugin.permission.SEND
+Baidu_com.tal.tiku.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.taobao.etao.xml android.permission.BIND_NFC_SERVICE
+Baidu_com.taobao.trip.xml android.permission.BIND_NFC_SERVICE, com.yunos.baseservice.cmns_client.RECEIVE_PERMISSIONS
+Baidu_com.tasker.fhtdf.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+Baidu_com.tc.cm.xml com.tencent.mm.plugin.permission.SEND
+Baidu_com.tcps.xiangyangtravel.xml android.permission.BIND_NFC_SERVICE
+Baidu_com.telecom.video.xml com.tencent.mm.plugin.permission.SEND, com.tencent.mm.plugin.permission.SEND
+Baidu_com.tencent.androidqqmail.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE, android.permission.BIND_VPN_SERVICE, com.tencent.androidqqmail.permission.PROCESS_PUSH_MSG
+Baidu_com.tencent.cmocmna.xml com.tencent.mocmna.accservice.permission
+Baidu_com.tencent.gallerymanager.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE, com.tencent.mm.plugin.permission.SEND
+Baidu_com.tencent.gamehelper.pg.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.tencent.karaoke.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.tencent.kg.android.lite.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.tencent.map.xml android.permission.BIND_NFC_SERVICE, com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.tencent.mm.xml android.permission.BIND_NFC_SERVICE
+Baidu_com.tencent.news.xml com.huawei.hicar.HICAR_PERMISSION_SYSTEM
+Baidu_com.tencent.now.xml com.tencent.mm.plugin.permission.SEND
+Baidu_com.tencent.qqlivepad.xml android.permission.BIND_VPN_SERVICE
+Baidu_com.tencent.qqmusic.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.tencent.qqmusiccall.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.tencent.qqpim.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE, com.tencent.mm.plugin.permission.SEND
+Baidu_com.tencent.qqpimsecure.xml android.permission.BIND_VPN_SERVICE, android.permission.BIND_VPN_SERVICE, android.permission.BIND_VPN_SERVICE, com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.tencent.tim.xml android.permission.BIND_NFC_SERVICE
+Baidu_com.tencent.wework.xml android.permission.BIND_NFC_SERVICE
+Baidu_com.tencent.weworklocal.xml android.permission.BIND_NFC_SERVICE
+Baidu_com.themewallpaper.douping.xml com.ddmh.pushsdk.permission.PROCESS_PUSH_MSG
+Baidu_com.thinkive.investhuajinsec.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.threegene.yeemiao.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.tianlutech.ebus.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.tianma.shoumi.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.tianyancha.skyeye.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.tima.carnet.m.main.xml android.permission.BIND_VPN_SERVICE
+Baidu_com.tima.gac.passengercar.xml com.tencent.mm.plugin.permission.SEND
+Baidu_com.tmall.wireless.xml android.permission.BIND_NFC_SERVICE, com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.tmri.app.main.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.toga.chat.xml com.toga.chat.permission.APP_AIDL_SERVER
+Baidu_com.tudou.android.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE, android.permission.BIND_NFC_SERVICE, android.permission.BIND_NFC_SERVICE, com.youku.permission.Boot_Finished
+Baidu_com.tuotuo.driver.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.umetrip.android.msky.app.xml android.permission.BIND_NFC_SERVICE, com.heytap.mcs.permission.SEND_MCS_MESSAGE, com.umetrip.android.msky.huawei.permission.PROCESS_PUSH_MSG
+Baidu_com.umpay.qingdaonfc.xml android.permission.BIND_NFC_SERVICE
+Baidu_com.Union.Driver.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.unionpay.xml android.permission.BIND_NFC_SERVICE
+Baidu_com.uroad.yunnangst.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.vcredit.kkcredit.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+Baidu_com.video.wanmei.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.vivo.space.xml com.vivo.abe.permission.transmit.br
+Baidu_com.wallpaper.v.live.xml com.tencent.mm.plugin.permission.SEND
+Baidu_com.wandoujia.eyepetizer.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.wawj.app.t.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.webank.wemoney.xml android.permission.BIND_NFC_SERVICE
+Baidu_com.weijixiang.jietubao.xml com.miui.securitycenter.permission.AppPermissionsEditor
+Baidu_com.weipaitang.wpt.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.wemomo.matchmaker.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.wemomo.moremo.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.wfhapppyimcforphotoeditor.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+Baidu_com.wondertek.miguaikan.xml com.miui.securitycenter.permission.AppPermissionsEditor
+Baidu_com.woyue.batchat.xml com.woyue.batchat.permission.share.FILE
+Baidu_com.wuba.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.wuba.zhuanzhuan.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.wujie.chengxin.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.www.ccoocity.ui.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.xhey.xcamera.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.xiaodu.smartspeaker.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.xiaomi.loan.xml com.xiaomi.loan.permission.APP_AIDL_SERVER
+Baidu_com.xiaonianyu.app.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.xiaoniu.master.cleanking.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.xiaoshijie.sqb.xml android.permission.BIND_NFC_SERVICE, com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.ximalaya.ting.android.xml com.huawei.hicar.HICAR_PERMISSION_SYSTEM, android.permission.BIND_VPN_SERVICE
+Baidu_com.xinchuzu.driver.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.xingin.xhs.xml android.permission.BIND_NFC_SERVICE
+Baidu_com.xingluo.mpa.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.xinxiu.AvatarMaker.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+Baidu_com.xlky.xlxt.xml com.foxhis.kft.permission.PROCESS_PUSH_MSG
+Baidu_com.xsyx.user.xml android.permission.BIND_NFC_SERVICE
+Baidu_com.xueersi.parentsmeeting.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.xunai.sleep.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.xunmeng.merchant.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.xunmeng.pinduoduo.xml com.xunmeng.hutaoqiao.MEMORY_MONITOR_SEND, com.xunmeng.hutaoqiao.XLOG_UPLOAD_SEND
+Baidu_com.xunruifairy.wallpaper.xml com.tencent.mm.plugin.permission.SEND
+Baidu_com.yaoo.qlauncher.xml com.yaoo.qlauncher.permission.INSTALL_SHORTCUT, com.yaoo.qlauncher.permission.UNINSTALL_SHORTCUT
+Baidu_com.yd.circle.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE, android.permission.BIND_NFC_SERVICE
+Baidu_com.yigou.driver.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.yijin.fastticket.xml android.permission.BIND_NFC_SERVICE, com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.yinding.parking_angel.owner.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.yinpai.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.yinxiang.xml com.google.android.gms.permission.APPINDEXING, com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+Baidu_com.yipiao.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.yiqizuoye.jzt.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.yitong.hrb.people.android.xml android.permission.BIND_NFC_SERVICE
+Baidu_com.yitong.mbank.psbc.xml com.tencent.mm.plugin.permission.SEND
+Baidu_com.yitong.zjrc.mfs.android.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.yiwugou.yiwukan.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.ykz.pmt.xml com.tencent.mm.plugin.permission.SEND
+Baidu_com.youdao.dict.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.youdao.note.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE, com.tencent.mm.plugin.permission.SEND
+Baidu_com.youer.client.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.youxinyun.chat.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.yujianapp.achat.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+Baidu_com.yuncheapp.android.pearl.xml android.permission.BIND_VPN_SERVICE
+Baidu_com.zaozhu.netplus.xml android.permission.BIND_VPN_SERVICE
+Baidu_com.ZArchiver.chengyuda.xml com.tencent.mm.plugin.permission.SEND
+Baidu_com.zbj.zhouse.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.zenmen.palmchat.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.zero.security.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+Baidu_com.zhangyu.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.zhenai.android.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.zhima.mpzb.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.zhongan.insurance.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.zhongduomei.rrmj.society.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.zidongdianji.xml com.tencent.mm.plugin.permission.SEND
+Baidu_com.znxh.hyhuo.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_com.zoomlion.serviceapp.xml com.miui.securitycenter.permission.AppPermissionsEditor
+Baidu_com.zuzuChe.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_ctrip.android.view.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_dopool.player.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_enfc.metro.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_hk.com.hsbc.hsbchkbusinessexpress.xml hk.com.hsbc.hsbchkbusinessexpress.permission.network
+Baidu_ht.sview.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_ls.xnj.meetingmachine.xml true, true
+Baidu_me.ele.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_me.yidui.xml com.tencent.mm.plugin.permission.SEND
+Baidu_mobi.htjsq.accelerator.xml android.permission.BIND_VPN_SERVICE
+Baidu_my.maya.android.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_net.untrip.app.lczcd.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_ola.com.user.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_org.fungo.akdstv.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_org.fungo.fungolive.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_org.fungo.fungoliveallstar.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_org.pingchuan.dingwork.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_org.sugram.lite.xml com.tencent.mm.plugin.permission.SEND
+Baidu_qzyd.speed.nethelper.xml android.permission.BIND_VPN_SERVICE
+Baidu_scode.phone.cleaner.clean.android.master.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_space.xinzhi.map.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Baidu_video.star.videoeditor.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+Baidu_video.vue.android.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+bangla.keyboard.bangla.stickers.app.xml android.permission.BIND_TEXT_SERVICE, com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+cats.wall7Fon.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE, com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+china.vpn_tap2free.xml android.permission.BIND_VPN_SERVICE
+co.lab9.xml com.amazon.device.messaging.permission.SEND
+com.adjust.volume.booster.go.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+com.akbartravel.AkbarTravels.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+com.almowafir.app.xml com.amazon.device.messaging.permission.SEND
+com.am.xml com.google.android.gms.auth.api.phone.permission.SEND
+com.andi.alquran.bangla.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+com.ankama.krosmaga.xml com.amazon.device.messaging.permission.SEND
+com.area.calculator.draw.xml com.google.android.gms.permission.APPINDEXING
+com.argenprop.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE, com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+com.athanmuslim.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+com.atistudios.italk.pl.xml com.amazon.device.messaging.permission.SEND
+com.atistudios.italk.tr.xml com.amazon.device.messaging.permission.SEND
+com.awox.smart.control.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+com.balintinfotech.punjabikeyboardfree.xml android.permission.BIND_TEXT_SERVICE
+com.bearhugmedia.mermaidsecrets1.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+com.benx9.cactus.xml com.google.android.apps.muzei.api.ACCESS_PROVIDER
+com.bi.quran.id.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+com.bigoceanstudio.vpn.unblock.master.unlimited.proxy.hotspot.xml android.permission.BIND_VPN_SERVICE
+com.birthdayframes.android.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+com.changecollective.tenpercenthappier.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+com.ciberos.corinthians.xml com.amazon.device.messaging.permission.SEND
+com.ciberos.flamengo.xml com.amazon.device.messaging.permission.SEND
+com.ciberos.palmeiras.xml com.amazon.device.messaging.permission.SEND
+com.cleverapps.scramble.xml com.amazon.inapp.purchasing.Permission.NOTIFY
+com.codigames.university.empire.idle.tycoon.xml com.amazon.device.messaging.permission.SEND
+com.colapps.reminder.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+com.com2us.wannabe.android.google.global.normal.xml com.amazon.inapp.purchasing.Permission.NOTIFY
+com.conduit.app_2932f271c0c840c3bbf7d13ed3202aaf.app.xml com.amazon.device.messaging.permission.SEND
+com.contextlogic.joyful.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE, com.google.android.gms.permission.APPINDEXING
+com.contextlogic.wish.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE, com.google.android.gms.permission.APPINDEXING
+com.cookapps.richpirates.xml com.amazon.device.messaging.permission.SEND
+com.coursehero.coursehero.xml com.amazon.device.messaging.permission.SEND
+com.cryart.sabbathschool.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+com.daraz.sellercenter.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+com.dearu.bubble.jyp.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+com.dev.voici.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+com.devicemagic.androidx.forms.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+com.distinctivegames.rugbyleague19.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+com.doublejump.idletuber.xml com.amazon.device.messaging.permission.SEND
+com.dragonflow.android.orbi.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE, com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+com.eaion.power.launcher.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE, com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE, com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+com.eset.parental.xml android.permission.BIND_VPN_SERVICE
+com.extremedevelopers.tanksvsrobots.xml com.amazon.device.messaging.permission.SEND
+com.fastaccess.github.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+com.fireshooters.riddle.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+com.flerogames.AfterRain.xml com.amazon.device.messaging.permission.SEND
+com.fme.cooking.story.kitchen.diary.xml com.amazon.device.messaging.permission.SEND
+com.fobwifi.normal.xml android.permission.BIND_VPN_SERVICE
+com.foginfo.vaffle.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+com.g5e.paranormalsocietypg.android.xml com.amazon.device.messaging.permission.SEND
+com.galaxylab.ss.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+com.gamegate.pixelracing_g.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+com.gawk.voicenotes.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+com.gedev.irregular.xml com.amazon.device.messaging.permission.SEND
+com.google.android.apps.docs.editors.sheets.xml com.google.android.gms.permission.PHENOTYPE_UPDATE_BROADCAST
+com.google.android.apps.docs.editors.slides.xml com.google.android.gms.permission.PHENOTYPE_UPDATE_BROADCAST
+com.google.android.dialer.xml android.permission.BIND_CONNECTION_SERVICE, com.google.android.gms.permission.PHENOTYPE_UPDATE_BROADCAST
+com.gujaratishaadi.android.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+com.home.workouts.professional.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+com.igoldtech.an.jmchallenge.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+com.igoldtech.an.swiped2.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+com.imobilize.relaxsleepwell.xml com.amazon.inapp.purchasing.Permission.NOTIFY
+com.improverllc.meetly.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+com.inglesdivino.reminder.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+com.joaomgcd.autovoice.xml android.permission.BIND_VOICE_INTERACTION, com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+com.juanvision.eseecloud30.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+com.kbstar.land.xml com.ahnlab.enginesdk.REPORTABLE
+com.kbstar.liivtalk.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+com.kiddoware.kidsvideoplayer.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+com.kidsfoodinc.chinese_food_puppy.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+com.lbp.peps.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE, com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+com.loopdigitalagency.loop.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+com.magikbee.kiddztube_Lite.xml com.amazon.inapp.purchasing.Permission.NOTIFY
+com.marcotls.icons.oxypie.free.xml com.google.android.apps.muzei.api.ACCESS_PROVIDER
+com.mattel.hwgarage.xml com.mcpp.mattel.blehelperlibrary.permission.DFU_SERVICE
+com.microsoft.familysafety.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+com.milibris.standalone.app.nationalgeographic.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE, com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+com.mirror.news.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+com.miui.calculator.xml com.miui.voiceassist.MVS_BROADCAST
+com.mobillslabs.mybills.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+com.mtfreegames.hilltopmountaindriving.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+com.natewren.piptec.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE, com.google.android.apps.muzei.api.ACCESS_PROVIDER
+com.nobexinc.wls_80949683.rc.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE, com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+com.nomadeducation.nomadeducation.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+com.odia.keyboard.for.android.xml android.permission.BIND_TEXT_SERVICE
+com.ohealthapps.fatburningworkout.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+com.ohealthstudio.flatstomachworkout.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+com.orchid.malayalam_dictionary.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+com.outbound.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+com.outthinking.chestworkout.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+com.outthinking.maleworkout.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+com.outthinking.plankworkout.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+com.owlr.controller.foscam.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+com.padu.recipes.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+com.parsa.saraf.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+com.pazugames.makeupgirlsunicorn.xml com.amazon.inapp.purchasing.Permission.NOTIFY
+com.playwithgames.driving.delivery.island.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+com.playwithgames.SmallCityParking.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+com.puzzletime.animals.xml com.amazon.device.messaging.permission.SEND
+com.radios.en.linea.de.peru.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+com.radiosonline.radiofmbrasil.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+com.rfm.android.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+com.rhappsody.calendariolaboralbrasil2014.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+com.rightwaygames.differences2.xml com.amazon.device.messaging.permission.SEND
+com.roqapps.mycurrencylite.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+com.sachi.hindi2hindi.dictionary.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+com.samsung.android.oneconnect.xml android.permission.BIND_CONTROLS, com.samsung.android.bixby.agent.permission.APP_SERVICE, com.sec.spp.permission.SEND
+com.sbimv.mvicalls.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+com.severex.tile.crush.xml com.amazon.device.messaging.permission.SEND
+com.singtao.iread.headline.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+com.sixwaves.bubbleepic.xml com.amazon.inapp.purchasing.Permission.NOTIFY
+com.social.onenight.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+com.square_enix.android_googleplay.RSRSWW.xml com.amazon.device.messaging.permission.SEND
+com.stepstone.totaljobs.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+com.surfshark.free.proxy.trust.dns.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+com.sz.photokit.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+com.taplane.twopics.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+com.tecsoftdroid.promesadevocional.xml com.amazon.device.messaging.permission.SEND
+com.the7art.flyingworld.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+com.tinashe.sdah.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+com.uniksoft.hdvideoplayerpro.xml android.permission.BIND_TV_INPUT
+com.virinchi.mychat.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE, com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+com.wabox.xml TODO
+com.watch.richface.challenger.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+com.wingontravel.m.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+com.worldpackers.travelers.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+com.xinmo.i18n.app.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+com.yunosolutions.brazilcalendar.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+com.ziipin.softkeyboard.uzbekistan.xml android.permission.BIND_TEXT_SERVICE
+com.zoho.forms.a.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+com.zoho.people.xml com.google.android.gms.permission.APPINDEXING
+Coolapk_app.podcast.cosmos.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_bos.consoar.countdown.xml com.google.android.apps.dashclock.permission.READ_EXTENSION_DATA
+Coolapk_cc.forestapp.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+Coolapk_cc.fotoplace.app.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_cmb.pb.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE, cmb.pb.permission.APP_AIDL_SERVER
+Coolapk_cmccwm.mobilemusic.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE, com.huawei.hicar.HICAR_PERMISSION_SYSTEM
+Coolapk_cn.aiqy.demo_public.xml com.miui.securitycenter.permission.AppPermissionsEditor
+Coolapk_cn.artand.android.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_cn.com.bsb.mbank.xml com.miui.securitycenter.permission.AppPermissionsEditor
+Coolapk_cn.com.kanjian.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_cn.com.langeasy.EasyListen.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_cn.com.langeasy.LangEasyLexis.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_cn.dxy.medicinehelper.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_cn.kuwo.tingshu.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_cn.ledongli.ldl.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_cn.missevan.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE, TODO
+Coolapk_cn.missfresh.application.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_cn.mucang.kaka.android.xml cn.mucang.android.weizhang.SDK_RECEIVER
+Coolapk_cn.mucang.xiaomi.android.wz.xml cn.mucang.android.weizhang.SDK_RECEIVER
+Coolapk_cn.mucang.xiaomi.android.xml cn.mucang.android.weizhang.SDK_RECEIVER
+Coolapk_cn.nicolite.huthelper.xml cn.nicolite.huthelper.permission.HUAWEIPUSH_RECEIVE
+Coolapk_cn.nova.phone.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_cn.poco.jane.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_cn.sleepycoder.birthday.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_cn.suanya.train.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_cn.ticktick.task.xml com.google.android.apps.dashclock.permission.READ_EXTENSION_DATA
+Coolapk_co.runner.app.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.A17zuoye.mobile.homework.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.achievo.vipshop.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE, com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.ali.money.shield.xml android.permission.BIND_VPN_SERVICE
+Coolapk_com.alibaba.ailabs.tg.xml com.alibaba.ailabs.tg.permission.NOTIFY_WIDGET
+Coolapk_com.alibaba.aliyun.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.alibaba.android.rimet.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.alipictures.moviepro.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.android.lzd.habit.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.android.mediacenter.xml com.huawei.hicar.HICAR_PERMISSION_SYSTEM, com.huawei.hicar.HICAR_PERMISSION_SYSTEM
+Coolapk_com.angding.smartnote.xml .permission.APP_WIDGET
+Coolapk_com.anjuke.android.app.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.antutu.ABenchMark.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.antutu.aibenchmark.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.appbyme.app159001.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.appshare.android.ilisten.xml com.huawei.hicar.HICAR_PERMISSION_SYSTEM
+Coolapk_com.asiainfo.android.xml android.permission.BIND_VPN_SERVICE
+Coolapk_com.autonavi.minimap.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.ayibang.ayb.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE, com.im.oa.myapplication.permission.PROCESS_PUSH_MSG
+Coolapk_com.baidu.BaiduMap.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.baidu.baike.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.baidu.browser.apps.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE, com.plugin.coloros.mcs.permission.SEND_MCS_MESSAGE, com.plugin.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.baidu.carlife.xml com.vivo.car.networking.CAR_PERMISSION, android.permission.INTERNET|             android.permission.ACCESS_WIFI_STATE|             android.permission.ACCESS_NETWORK_STATE|             android.permission.READ_PHONE_STATE
+Coolapk_com.baidu.dict.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.baidu.doctor.doctoranswer.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.baidu.haokan.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.baidu.homework.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE, com.baidu.homework.permission.PROCESS_PUSH_MSG
+Coolapk_com.baidu.iknow.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.baidu.searchbox.lite.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE, com.plugin.coloros.mcs.permission.SEND_MCS_MESSAGE, com.plugin.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.baidu.tieba.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.baidu.tieba_mini.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.baidu.wenku.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.baidu.yuedu.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_COM.Bangso.FitMiss.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.bankcomm.maidanba.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.bar.iconpack.xml com.google.android.apps.muzei.api.ACCESS_PROVIDER
+Coolapk_com.beevle.xz.renxing.gdong.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.bertadata.qxb.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.bijiago.app.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.businessvalue.android.app.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.bytedance.ee.feishu.docs.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.caiyuninterpreter.activity.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.chaoui.mintreading.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.chaozh.iReaderFree.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.charm.discipline.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+Coolapk_com.charmapptime.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+Coolapk_com.chenghui.study.c.xml studyc.jackpal.androidterm.permission.RUN_SCRIPT
+Coolapk_com.chinatelecom.bestpayclient.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+Coolapk_com.citic21.user.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.citiccard.mobilebank.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.ckditu.map.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+Coolapk_com.cleanmaster.mguard_cn.xml android.permission.BIND_VPN_SERVICE, com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.cloud7.firstpage.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.cmcc.cmvideo.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.cn21.ecloud.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.corp21cn.flowpay.xml android.permission.BIND_VPN_SERVICE
+Coolapk_com.cqmc.client.xml android.permission.BIND_VPN_SERVICE
+Coolapk_com.csair.mbp.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE, com.csair.mbp.notification.MyJPushMessageReceiver
+Coolapk_com.csii.zybk.ui.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.ct.client.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.ctg.itrdc.ecloud.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.cto51.student.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE, com.cto51.student.permission.PROCESS_PUSH_MSG
+Coolapk_com.cyzone.news.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.dada.mobile.android.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.daimajia.gold.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.dangdang.buy2.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE, com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+Coolapk_com.dotools.clock.xml \ 2147483647
+Coolapk_com.douban.frodo.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.douyu.rush.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.dou_pai.DouPai.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.dragon.read.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.drcom.DuoDian.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+Coolapk_com.duia.cet4.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+Coolapk_com.duia.duiaapp.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+Coolapk_com.duia.duiba.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+Coolapk_com.duitang.main.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.duoduo.child.story.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.duokan.phone.remotecontroller.xml com.duokan.phone.remotecontroller.permission.BROADCAST_RECEIVE, com.miui.voiceassist.MVS_BROADCAST
+Coolapk_com.duowan.gamevoice.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.eastmoney.android.berlin.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.eastmoney.android.gubaproj.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.ebank.creditcard.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.ecc.ka.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.ecitic.bank.mobile.xml com.ecitic.bank.mobile.permission.APP_AIDL_SERVER
+Coolapk_com.ellabook.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.eusoft.dehelper.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.eusoft.eshelper.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.eusoft.eudic.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.eusoft.frhelper.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.eusoft.recite.en.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.eusoft.ting.en.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.evozi.injector.xml android.permission.BIND_VPN_SERVICE, android.permission.BIND_VPN_SERVICE, android.permission.BIND_VPN_SERVICE, android.permission.BIND_VPN_SERVICE
+Coolapk_com.example.businesshall.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE, com.miui.securitycenter.permission.AppPermissionsEditor
+Coolapk_com.example.wegoal.xml com.cjy.test.mctpush.huaweiPush.permission.PROCESS_PUSH_MSG
+Coolapk_com.feng.car.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.fimo.camera.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.forfan.bigbang.coolapk.xml android.permission.BIND_VOICE_INTERACTION
+Coolapk_com.forfan.bigbang.xml android.permission.BIND_VOICE_INTERACTION
+Coolapk_com.forms.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.fuyou.aextrator.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.fuyou.tools.videoconverter.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.ga.iconpack.stoneplus.xml com.google.android.apps.muzei.api.ACCESS_PROVIDER
+Coolapk_com.ganji.android.haoche_c.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.ganji.android.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.gaokaozhiyuan.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.garmin.android.apps.connectmobile.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+Coolapk_com.gift.android.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.glodon.constructioncalculators.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.goyourfly.bigidea.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+Coolapk_com.greenline.guahao.xml com.greenline.guahao.permission.PROCESS_PUSH_MSG
+Coolapk_com.guosen.android.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.haidilao.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.haodf.android.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.heartide.xinchao.stressandroid.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE, com.heartide.xinchao.stressandroid.permission.PROCESS_PUSH_MSG
+Coolapk_com.hejia.squirrelaccountbook.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.hicorenational.antifraud.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.hipipal.qpy3.xml com.quseit.texteditor.permission.TED_INTERNAL, com.quseit.texteditor.permission.TED_INTERNAL
+Coolapk_com.hipu.yidian.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.hoofei.iconpack.parrot.xml com.google.android.apps.muzei.api.ACCESS_PROVIDER
+Coolapk_com.huiian.timing.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE, com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.hunantv.imgo.activity.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.ifeng.fhdt.xml com.huawei.hicar.HICAR_PERMISSION_SYSTEM, com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.ifeng.news2.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.ifeng.newvideo.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.iflytek.recinbox.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.infzm.ireader.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.inmeapp.dream.xml 1000, 1000, 1000, 1000
+Coolapk_com.intlime.mark.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.intsig.camscanner.xml com.intsig.camscanner.push.receiver
+Coolapk_com.ishowedu.peiyin.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE, com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.iss.jiningbank.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.iss.weifangbank.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.itjuzi.app.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.jd.jdlite.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.jingdian.tianxiameishi.android.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.jinxin.namibox.xml com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+Coolapk_com.jsmcc.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.juphoon.justalk.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.jxedt.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.kascend.chushou.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.kingpoint.gmcchh.xml android.permission.BIND_VPN_SERVICE, com.heytap.mcs.permission.SEND_MCS_MESSAGE, cmccg5.permission.activity
+Coolapk_com.kuaishou.nebula.xml android.permission.BIND_VPN_SERVICE
+Coolapk_com.kugou.android.lite.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE, com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.kugou.android.ringtone.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.kugou.android.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE, com.huawei.hicar.HICAR_PERMISSION_SYSTEM
+Coolapk_com.kugou.fanxing.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.lechuan.midunovel.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.leixun.taofen8.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.lemon.faceu.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.lenovo.browser.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.lenovo.leos.cloud.sync.xml android.permission.CONFIRM_FULL_BACKUP
+Coolapk_com.letv.android.client.xml com.stv.stvpush.permission.SEND_PUSH, com.stv.stvpush.permission.SEND_PUSH
+Coolapk_com.lexue.courser.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.lianaibiji.dev.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.lionmobi.netmaster.xml android.permission.BIND_VPN_SERVICE
+Coolapk_com.liveyap.timehut.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.lofter.android.xml im.yixin.sdk.permission.MM_MESSAGE
+Coolapk_com.lolaage.tbulu.tools.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.ludashi.benchmark.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.m1905.mobilefree.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.m4399.youpai.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.mbalib.android.wiki.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.medibang.android.paint.tablet.xml com.amazon.inapp.purchasing.Permission.NOTIFY
+Coolapk_com.meelive.ingkee.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.meitu.meipaimv.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE, com.meitu.remote.hotfix.permission.DEBUGGING
+Coolapk_com.meitu.meiyancamera.xml com.meitu.remote.hotfix.permission.DEBUGGING, com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.meitu.wheecam.xml com.meitu.remote.hotfix.permission.DEBUGGING
+Coolapk_com.meizu.notes.xml com.meizu.flyme.push.permission.SEND
+Coolapk_com.mia.miababy.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.microsoft.todos.xml com.google.android.gm.permission.AUTO_SEND
+Coolapk_com.mida.messagehelper.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.miui.calculator.xml com.miui.voiceassist.MVS_BROADCAST
+Coolapk_com.mobile.videonews.li.video.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.MobileTicket.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.moji.mjweather.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.mt.mtxx.mtxx.xml com.meitu.remote.hotfix.permission.DEBUGGING, com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.mubu.app.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.nature.iconpack.xml com.google.android.apps.muzei.api.ACCESS_PROVIDER
+Coolapk_com.navinfo.gw.xml com.vivo.car.networking.CAR_PERMISSION
+Coolapk_com.naxy.xykey.xml android.permission.BIND_AUTOFILL
+Coolapk_com.netease.cloudmusic.xml com.huawei.hicar.HICAR_PERMISSION_SYSTEM, com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.netease.pris.xml im.yixin.sdk.permission.MM_MESSAGE
+Coolapk_com.netease.vopen.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.nowcasting.activity.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.oasisfeng.greenify.xml com.oasisfeng.nevo.permission.BIND_DECORATOR_SERVICE
+Coolapk_com.oasisfeng.nevo.ext.xml android.permission.BIND_NOTIFICATION_ASSISTANT_SERVICE
+Coolapk_com.oasisfeng.nevo.xml android.permission.BIND_NOTIFICATION_ASSISTANT_SERVICE
+Coolapk_com.octinn.birthdayplus.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.oupeng.mini.android.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.pingan.lifeinsurance.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.pingan.paces.ccms.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.pplive.androidphone.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE, com.suning.yunxin.yxpushdemo.permission.PROCESS_PUSH_MSG
+Coolapk_com.psyone.brainmusic.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE, com.psyone.brainmusic.permission.PROCESS_PUSH_MSG
+Coolapk_com.qb.qtranslator.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.qihoo.browser.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.qihoo.camera.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.qihoo.cloudisk.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.qihoo.video.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.qihoo360.antilostwatch.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.qihoo360.mobilesafe.opti.powerctl.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.qihoo360.mobilesafe.xml android.permission.BIND_VPN_SERVICE
+Coolapk_com.qiyi.android.ticket.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.qiyi.video.child.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.qunar.train.xml qutui.permission.GPushReceiver.com.qunar.train
+Coolapk_com.qunhe.rendershow.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.qxcm.zeldamap.xml com.miui.securitycenter.permission.AppPermissionsEditor
+Coolapk_com.qyer.android.jinnang.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.qyer.android.plan.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.rockets.chang.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.ruanmei.ithome.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.ruguoapp.jike.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.samsung.android.app.sreminder.xml com.samsung.android.bixby.agent.permission.APP_SERVICE
+Coolapk_com.sec.android.app.shealth.xml com.samsung.android.bixby.agent.permission.APP_SERVICE
+Coolapk_com.sec.android.easyMover.xml com.sec.android.app.SecSetupWizard.permission.SHOW_SETUP_WIZARD
+Coolapk_com.sh.cm.shydhn.xml android.permission.BIND_VPN_SERVICE, com.sh.cm.busihall.permission.BUSIHALLNATIVE
+Coolapk_com.shinyv.cnr.xml com.huawei.hicar.HICAR_PERMISSION_SYSTEM, com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.shixiseng.activity.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.shoujiduoduo.dj.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.shoujiduoduo.ringtone.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.sina.oasis.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.sina.weibo.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.sina.weibog3.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.sina.weibolite.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.sinovatech.unicom.ui.xml android.permission.BIND_VPN_SERVICE
+Coolapk_com.sl.whale.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.smart.kuaidushu.xml com.smart.kuaidushu.permission.PROCESS_PUSH_MSG
+Coolapk_com.smartisan.reader.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.smartisan.smartisanstore.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.smile.gifmaker.xml android.permission.BIND_VPN_SERVICE
+Coolapk_com.SmileIDE.SmartLock.xml android.provider.Telephony.SMS_RECEIVED
+Coolapk_com.snda.wifilocating.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.sogou.activity.src.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.sogou.map.android.maps.xml com.huawei.hicar.HICAR_PERMISSION_SYSTEM
+Coolapk_com.sogou.translator.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.sohu.auto.helper.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.sohu.auto.sohuauto.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.sohu.sohuvideo.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.sohu.tv.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.songheng.eastsports.xml auto_inquiry
+Coolapk_com.ss.android.article.video.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.ss.android.auto.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.ss.android.lark.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.ss.android.tuchong.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.ss.android.ugc.aweme.lite.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.ss.android.ugc.live.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.sunboxsoft.oilforgdandroid.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.suning.mobile.epa.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE, com.suning.mobile.epa.permission.APP_AIDL_SERVER
+Coolapk_com.sunrise.scmbhc.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.sup.android.superb.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.tadu.android.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.tal.kaoyan.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.taobao.homeai.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.taobao.mobile.dipei.xml com.eg.android.AlipayGphone.MerchantPermission
+Coolapk_com.tataera.bbctingli.xml com.tencent.mm.oauth.permission.SEND
+Coolapk_com.tataera.edushu.xml com.tencent.mm.oauth.permission.SEND
+Coolapk_com.tataera.radio.xml com.tencent.mm.oauth.permission.SEND, com.tencent.mm.oauth.permission.SEND
+Coolapk_com.tataera.tingshu.xml com.tencent.mm.oauth.permission.SEND, com.tencent.mm.oauth.permission.SEND
+Coolapk_com.tencent.aieducation.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.tencent.androidqqmail.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE, android.permission.BIND_VPN_SERVICE, com.tencent.androidqqmail.permission.PROCESS_PUSH_MSG
+Coolapk_com.tencent.blackkey.xml com.tencent.blackkey.permission.PROCESS_PUSH_MSG
+Coolapk_com.tencent.gallerymanager.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.tencent.karaoke.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.tencent.map.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.tencent.mtt.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.tencent.omapp.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.tencent.qgame.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.tencent.qqmusic.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.tencent.qqpim.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.tencent.wifimanager.xml android.permission.BIND_VPN_SERVICE, android.permission.BIND_VPN_SERVICE, com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.thinkernote.ThinkerNote.xml com.opencdk.appwidget.permission.APP_WIDGET
+Coolapk_com.tianyancha.skyeye.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.toshiba_dealin.developerhelper.xml android.permission.BIND_VPN_SERVICE
+Coolapk_com.tudou.android.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE, com.youku.permission.Boot_Finished
+Coolapk_com.UCMobile.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.umetrip.android.msky.app.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE, com.umetrip.android.msky.huawei.permission.PROCESS_PUSH_MSG
+Coolapk_com.up591.android.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.uxin.usedcar.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.wandoujia.eyepetizer.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.wangdaye.mysplash.xml com.google.android.apps.muzei.api.ACCESS_PROVIDER
+Coolapk_com.wodan.xianshijian.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.wodidashi.wolf.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.wonderfull.mobileshop.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.wuba.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.wuba.zhuanzhuan.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.xcar.activity.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.xiaobanlong.main.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.xiaojukeji.didi.soda.merchant.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.xiaomi.o2o.xml com.tencent.mm.oauth.permission.SEND
+Coolapk_com.xiaomi.smarthome.xml android.permission.BIND_PRINT_SERVICE, android.permission.BIND_CONTROLS
+Coolapk_com.ximalaya.ting.android.xml com.huawei.hicar.HICAR_PERMISSION_SYSTEM, android.permission.BIND_VPN_SERVICE
+Coolapk_com.xueersi.parentsmeeting.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.xuetangx.mobile.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.xunlei.downloadprovider.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.xunmeng.pinduoduo.xml com.xunmeng.hutaoqiao.MEMORY_MONITOR_SEND, com.xunmeng.hutaoqiao.XLOG_UPLOAD_SEND
+Coolapk_com.yate.jsq.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.ygkj.chelaile.standard.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.yhouse.code.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.yikaobang.yixue.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.yinxiang.xml com.google.android.gms.permission.APPINDEXING
+Coolapk_com.yiqi.calendar.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.youdao.dict.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.youdao.huihui.deals.xml com.tencent.mm.oauth.permission.SEND
+Coolapk_com.youdao.note.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.zhangdan.app.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.zhongan.insurance.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.zivn.cloudbrush3.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_com.znxh.hyhuo.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_io.dushu.fandengreader.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_io.moreless.tide.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_mobi.infolife.ezweather.xml com.google.android.apps.dashclock.permission.READ_EXTENSION_DATA
+Coolapk_org.geekbang.geekTime.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_org.wanmen.wanmenuni.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_person.cjy.iconpack.fashion.xml com.google.android.apps.muzei.api.ACCESS_PROVIDER
+Coolapk_person.cjy.iconpack.mistiness.xml com.google.android.apps.muzei.api.ACCESS_PROVIDER
+Coolapk_pink.bee.xml com.google.android.apps.muzei.api.ACCESS_PROVIDER
+Coolapk_qzyd.speed.nethelper.xml android.permission.BIND_VPN_SERVICE
+Coolapk_tc.everphoto.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_tech.caicheng.judourili.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_video.vue.android.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Coolapk_wangdaye.com.geometricweather.xml cyanogenmod.permission.BIND_WEATHER_PROVIDER_SERVICE
+jp.co.benesse.maitama.xml com.quantumgraph.sdk
+net.mypush.dnsswitch.xml android.permission.BIND_VPN_SERVICE
+net.playq.tastebuds.xml com.amazon.device.messaging.permission.SEND
+net.pulsesecure.pulsesecure.xml android.permission.BIND_VPN_SERVICE, android.permission.BIND_VPN_SERVICE, android.permission.BIND_VPN_SERVICE
+net.thev.vtube14284.xml net.thev.vtube14284.permission.BackgroundHandlerActivity
+net.torguard.openvpn.client.xml android.permission.BIND_VPN_SERVICE
+pt.sapo.mobile.android.futebol.xml com.amazon.device.messaging.permission.SEND
+ro.orange.omoney.xml com.amazon.device.messaging.permission.SEND
+tw.clotai.easyreader.xml tw.clotai.easyreader.permission.Sync
+Xiaomi_cc.jianke.jianzhike.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Xiaomi_club.imjk.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Xiaomi_cn.mc.mcxt.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Xiaomi_cn.ninebot.ninebot.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Xiaomi_cn.wsds.jett.xml android.permission.BIND_VPN_SERVICE
+Xiaomi_com.aishirong.sr.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Xiaomi_com.alibaba.ailabs.tg.xml com.alibaba.ailabs.tg.permission.NOTIFY_WIDGET
+Xiaomi_com.alticor.amwaychina.contentHub.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Xiaomi_com.antutu.ABenchMark.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Xiaomi_com.baolian.hengbang.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Xiaomi_com.beeline.gamemaster.xml android.permission.BIND_VPN_SERVICE
+Xiaomi_com.best.android.laiqu.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Xiaomi_com.bfhd.kmsp.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Xiaomi_com.car300.activity.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Xiaomi_com.cleanmaster.mguard_cn.xml android.permission.BIND_VPN_SERVICE, com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Xiaomi_com.cmri.hgcc.jty.xml com.cmri.hgcc.jty.permission.ACCESS
+Xiaomi_com.cn.xiangmaikeji.express.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Xiaomi_com.dadawh.birthday.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Xiaomi_com.deepaso.FlipClockMini.xml com.miui.securitycenter.permission.AppPermissionsEditor
+Xiaomi_com.doupin.show.xml com.ddmh.pushsdk.permission.PROCESS_PUSH_MSG
+Xiaomi_com.droi.adocker.pro.xml android.permission.BIND_VPN_SERVICE
+Xiaomi_com.elan.activity.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Xiaomi_com.evhack.cxj.merchant.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Xiaomi_com.example.businesshall.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE, com.miui.securitycenter.permission.AppPermissionsEditor
+Xiaomi_com.example.driver_custom.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Xiaomi_com.fanfareknowledge.pickupkinsfolk.xml com.miui.securitycenter.permission.AppPermissionsEditor
+Xiaomi_com.fnscore.app.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Xiaomi_com.fxeye.foreignexchangeeye.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Xiaomi_com.greenpoint.android.mc10086.activity.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Xiaomi_com.guaguawifi.network.cleaner.booster.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Xiaomi_com.gzliangce.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Xiaomi_com.haolvsuixing.user.xml com.miui.securitycenter.permission.AppPermissionsEditor
+Xiaomi_com.hellogeek.iheshui.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Xiaomi_com.highmultiple.glass.xml com.facebook.receiver.permission.prod.ACCESS
+Xiaomi_com.hikvision.sentinels.xml com.hikvision.sentinels.permission.PROCESS_PUSH_MSG
+Xiaomi_com.hsb.ministation.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Xiaomi_com.hxct.innovate_valley.xml android.permission.BIND_VPN_SERVICE
+Xiaomi_com.ifang.daiketong.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Xiaomi_com.innotechx.funchat.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Xiaomi_com.inspur.icity.neimenggu.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Xiaomi_com.instrument.firm.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Xiaomi_com.ispeed.mobileirdc.xml android.permission.BIND_VPN_SERVICE
+Xiaomi_com.jhj.cloudman.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE, com.miui.securitycenter.permission.AppPermissionsEditor
+Xiaomi_com.jiapuji.jpj.xml com.jiapuji.jpj.FLUTTER_MUSIC_PLAYER
+Xiaomi_com.jieguanyi.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Xiaomi_com.jingyichelian.xml com.miui.securitycenter.permission.AppPermissionsEditor
+Xiaomi_com.joyshebao.joy.xml com.miui.securitycenter.permission.AppPermissionsEditor
+Xiaomi_com.jt.kzqlds.tools.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Xiaomi_com.jt.qzclean.tools.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Xiaomi_com.kachexiongdi.trucker.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Xiaomi_com.kachexiongdi.truckerdriver.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Xiaomi_com.ks.lion.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Xiaomi_com.kugou.shiqutouch.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Xiaomi_com.liuzhou.apps.android.lcsmy.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Xiaomi_com.lvshiguan.app.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Xiaomi_com.mg.phonecall.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Xiaomi_com.mimi.xichelapp.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Xiaomi_com.mindera.xindao.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Xiaomi_com.mofang_ancestry.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Xiaomi_com.muih5plus.taxapp.xml com.miui.securitycenter.permission.AppPermissionsEditor
+Xiaomi_com.mula.mall.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Xiaomi_com.mysteel.banksteeltwo.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE, com.miui.securitycenter.permission.AppPermissionsEditor
+Xiaomi_com.nacai.gogonetpas.xml android.permission.BIND_VPN_SERVICE
+Xiaomi_com.netease.uurouter.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Xiaomi_com.platform.mingonghui.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Xiaomi_com.puhui.driver.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Xiaomi_com.qeeyou.apps.android.onlinetreasure.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Xiaomi_com.qihoo.wg.wotbox.an.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Xiaomi_com.qinggong.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Xiaomi_com.quark.browser.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Xiaomi_com.smkj.days.xml com.opencdk.appwidget.permission.APP_WIDGET
+Xiaomi_com.soterea.managerterminal.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Xiaomi_com.sundray.ioth5.xml com.miui.securitycenter.permission.AppPermissionsEditor
+Xiaomi_com.sydauto.uav.xml TODO
+Xiaomi_com.tencent.mtt.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Xiaomi_com.tencent.qqpim.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Xiaomi_com.tfsmy.apps.android.tfsmy.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Xiaomi_com.to2100.ttjs.xml com.miui.securitycenter.permission.AppPermissionsEditor
+Xiaomi_com.trainor.hsehome.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Xiaomi_com.tsingtech.newapp.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Xiaomi_com.wjkj.dyrsty.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Xiaomi_com.wodan.xianshijian.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Xiaomi_com.wuliuhub.LuLian.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Xiaomi_com.xinan.police.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE, app.custom.permission2
+Xiaomi_com.xqz.old.man.fdj.xml com.facebook.receiver.permission.prod.ACCESS
+Xiaomi_com.xydlm.todayoil.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Xiaomi_com.yd.circle.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Xiaomi_com.yinshenxia.xml com.yinshenxia.permission.START_SUCUN_SERVICE
+Xiaomi_com.yishihuizhanbu.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Xiaomi_com.yongzin.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Xiaomi_com.youloft.mooda.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Xiaomi_com.yucheng.android.dry.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Xiaomi_com.yuedan.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Xiaomi_com.yunmengxinglian.driver.xml com.miui.securitycenter.permission.AppPermissionsEditor
+Xiaomi_com.yuxi.jietuwang.xml com.miui.securitycenter.permission.AppPermissionsEditor
+Xiaomi_com.zhilun.zhilun_busin_compan_app.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Xiaomi_com.zhucheng.blue_app.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Xiaomi_com.zhuoyi.zmcalendar.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Xiaomi_com.zjrkj.dzwl.official.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Xiaomi_com.zousacarrier.rainbowchat.xml com.miui.securitycenter.permission.AppPermissionsEditor
+Xiaomi_com.zousaenterprise.rainbowchat.xml com.miui.securitycenter.permission.AppPermissionsEditor
+Xiaomi_ingnox.paradox.infinity.grow.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+Xiaomi_net.eanfang.client.xml com.tencent.mm.plugin.permission.SEND|com.tencent.mm.permission.MM_MESSAGE
+Xiaomi_net.merise.lock.xml com.miui.securitycenter.permission.AppPermissionsEditor
+Xiaomi_uni.UNIF2D41E0.xml com.heytap.mcs.permission.SEND_MCS_MESSAGE
+xyz.gameoff.relaxation.xml com.amazon.inapp.purchasing.Permission.NOTIFY
